@@ -6,12 +6,12 @@
         TravelSaveAndBeMerry
       </h1>
       <h2 class="subtitle">
-        Tyler and Randis Travel Blog
+        Randi and Tyler's Travel Blog
       </h2>
       <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green">
-          Documentation
-        </a>
+        <nuxt-link to="/blog/" class="button--green">
+          blog
+        </nuxt-link>
         <a
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
@@ -28,11 +28,14 @@
 import Logo from '~/components/Logo.vue'
 
 export default {
+  components:{
+    Logo
+  },
   head() {
     return {
       script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }],
     };
-  },
+  }
 };
 </script>
 
