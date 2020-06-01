@@ -24,3 +24,7 @@ collections:
     name: "tags"
     widget: "list"
     default: [""]
+    folder: 'assets/content/tags'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
