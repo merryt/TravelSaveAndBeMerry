@@ -24,7 +24,7 @@ collections:
   - label: "Tags"
     name: "tags"
     widget: "list"
-    default: [""]
+    default: ["blog"]
     folder: 'assets/content/tags'
     create: true
     allow_add: true
