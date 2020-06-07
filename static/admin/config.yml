@@ -27,6 +27,7 @@ collections:
     default: [""]
     folder: 'assets/content/tags'
     create: true
+    allow_add: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }
