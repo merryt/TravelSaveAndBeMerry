@@ -31,7 +31,7 @@ collections:
     label: Tags
     folder: static/tags/
     create: true
-    slug: {{tag_title}}
+    slug: '{{tag_title}}'
     identifier_field: tag_title
     fields:	
       - { label: 'Title', name: 'tag_title', widget: 'string' }	
