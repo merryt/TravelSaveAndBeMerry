@@ -6,10 +6,10 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: 'blogs'
-    label: 'Blog'
-    format: 'json'
-    folder: 'static/content/blog'
+  - name: P
+    label: Blog
+    format: json
+    folder: static/posts/
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
@@ -27,3 +27,12 @@ collections:
         selectFrom:
           - collection: blogs
             field: tags
+  - name: tags
+    label: Tags
+    folder: static/tags/
+    create: true
+    slug: {{title}}
+    identifier_field: title
+    fields:	
+      - { label: 'Title', name: 'title', widget: 'string' }	
+      - { label: 'Description', name: 'description', widget: 'string' }
