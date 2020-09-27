@@ -5,9 +5,17 @@
 </template>
 
 <style>
+:root {
+    --green-3: #2a5655;
+    --green-2: #3f8c7b;
+    --green-1: #c0d8c5;
+    --yellow-2: #f0ead9;
+    --yellow-1: #f5f3f1;
+    --blue-2: #35495e;
+}
+
 html {
-    font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-        'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     word-spacing: 1px;
     -ms-text-size-adjust: 100%;
@@ -15,6 +23,14 @@ html {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     box-sizing: border-box;
+    background-color: var(--yellow-1);
+}
+.display {
+    font-family: 'Amatic SC', cursive;
+}
+
+.serif {
+    font-family: 'Montserrat', sans-serif;
 }
 
 *,
@@ -27,22 +43,22 @@ html {
 .button--green {
     display: inline-block;
     border-radius: 4px;
-    border: 1px solid #3b8070;
-    color: #3b8070;
+    border: 1px solid var(--green-2);
+    color: var(--green-2);
     text-decoration: none;
     padding: 10px 30px;
 }
 
 .button--green:hover {
     color: #fff;
-    background-color: #3b8070;
+    background-color: var(--green-2);
 }
 
 .button--grey {
     display: inline-block;
     border-radius: 4px;
-    border: 1px solid #35495e;
-    color: #35495e;
+    border: 1px solid var(--blue-2);
+    color: var(--blue-2);
     text-decoration: none;
     padding: 10px 30px;
     margin-left: 15px;
@@ -50,6 +66,6 @@ html {
 
 .button--grey:hover {
     color: #fff;
-    background-color: #35495e;
+    background-color: var(--blue-2);
 }
 </style>
