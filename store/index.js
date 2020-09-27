@@ -11,7 +11,7 @@ export const mutations = {
 export const actions = {
     async nuxtServerInit({ commit }) {
         const files = await require.context(
-            '~/assets/content/blog/',
+            '~/static/posts/',
             false,
             /\.json$/
         )
