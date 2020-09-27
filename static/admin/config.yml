@@ -6,30 +6,24 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: 'blog'
+  - name: 'blogs'
     label: 'Blog'
     format: 'json'
-    folder: 'assets/content/blog'
+    folder: 'static/content/blog'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Tags', name: 'tags', widget: 'tags' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Featured Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - label: "Tags"
-    name: "Tags"
-    required: "false"
-    widget: "tag"
-    default: ["blog"]
-    folder: 'assets/content/tags'
-    seporator: __,
-    create: true
-    allow_add: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'string' }
+      - name: tags
+        widget: select
+        multiple: true
+        create: true
+        selectFrom:
+          - collection: blogs
+            field: tags
