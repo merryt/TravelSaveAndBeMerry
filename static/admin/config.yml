@@ -22,11 +22,12 @@ collections:
       - { label: 'Featured Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - label: "Tags"
-    name: "tags"
+    name: "Tags"
     required: "false"
-    widget: "list"
+    widget: "tag"
     default: ["blog"]
     folder: 'assets/content/tags'
+    seporator: __,
     create: true
     allow_add: true
     fields:

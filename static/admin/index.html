@@ -11,7 +11,7 @@
     <!-- Include the script that builds the page and powers Netlify CMS -->
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
     <script>
-      var CategoriesControl = createClass({
+      var TagsControl = createClass({
         handleChange: function(e) {
           const separator = this.props.field.get('separator', ', ')
           this.props.onChange(e.target.value.split(separator).map((e) => e.trim()));
@@ -30,7 +30,7 @@
         },
       });
       
-      var CategoriesPreview = createClass({
+      var TagsPreview = createClass({
         render: function() {
           return h('ul', {},
             this.props.value.map(function(val, index) {
@@ -46,7 +46,7 @@
         },
       }
       
-      CMS.registerWidget('tags', CategoriesControl, CategoriesPreview, schema);
+      CMS.registerWidget('tags', TagsControl, TagsPreview, schema);
       </script>
   </body>
 </html>
