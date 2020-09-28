@@ -1,5 +1,9 @@
 <template>
     <div>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Montserrat:wght@100;400;700&display=swap"
+            rel="stylesheet"
+        />
         <nuxt />
     </div>
 </template>
@@ -25,11 +29,15 @@ html {
     box-sizing: border-box;
     background-color: var(--yellow-1);
 }
+
 .display {
+    /* we are bringing in just 700 weight */
     font-family: 'Amatic SC', cursive;
+    font-weight: 700;
 }
 
-.serif {
+.sans-serif {
+    /* we are bringing in 100 400 700 */
     font-family: 'Montserrat', sans-serif;
 }
 
