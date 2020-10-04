@@ -12,8 +12,8 @@ export default {
         if (payload) return { blogPost: payload }
         else
             return {
-                blogPost: await require(`~/static/posts/${params.blog}.json`)
+                blogPost: await require(`~/static/posts/${params.blog}.json`),
             }
-    }
+    },
 }
 </script>

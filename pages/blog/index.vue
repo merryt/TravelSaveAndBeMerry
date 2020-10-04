@@ -13,7 +13,7 @@ export default {
         blogPosts() {
             console.log(this.$store.state.blogPosts)
             return this.$store.state.blogPosts
-        }
-    }
+        },
+    },
 }
 </script>

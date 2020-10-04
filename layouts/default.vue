@@ -16,6 +16,7 @@
     --yellow-2: #f0ead9;
     --yellow-1: #f5f3f1;
     --blue-2: #35495e;
+    --white: #ffffff;
 }
 
 html {
