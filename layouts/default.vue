@@ -17,6 +17,12 @@
     --yellow-1: #f5f3f1;
     --blue-2: #35495e;
     --white: #ffffff;
+    --shadowColor: 0px 0px 10px 4px rgba(0, 0, 0, 0.08);
+
+    --small-margin: 19px;
+    --large-margin: 58px;
+
+    --border-radius-size: 10px;
 }
 
 html {

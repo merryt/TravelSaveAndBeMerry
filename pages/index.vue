@@ -17,12 +17,13 @@
                     Randi is a Quality Assurance Manager for Guild Education!
                 </p>
             </div>
-
-            <Card
-                v-for="post in posts"
-                v-bind:key="post.slug"
-                :cardData="post"
-            />
+            <div class="cards">
+                <Card
+                    v-for="post in posts"
+                    v-bind:key="post.slug"
+                    :cardData="post"
+                />
+            </div>
 
             <!-- example link -->
             <!-- <nuxt-link to="/blog/" class="button--green">blog</nuxt-link> -->
@@ -75,6 +76,7 @@ export default {
     text-align: center;
     color: var(--green-2);
 }
+
 @media only screen and (max-width: 800px) {
     .title {
         font-size: 19.3vw;
@@ -95,10 +97,15 @@ export default {
 .about-us {
     background-color: var(--white);
     padding: 5% 20%;
+    box-shadow: var(--shadowColor);
 }
 
 .about-us > h2 {
     font-size: 2em;
     color: var(--green-3);
+}
+
+.cards {
+    margin: 0 var(--large-margin);
 }
 </style>
