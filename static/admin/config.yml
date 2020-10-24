@@ -30,8 +30,8 @@ collections:
         label: Author
         widget: relation
         collection: "authors"
-        searchfields: ['author_name']
-        valuefield: "author_name"
+        searchFields: ['author_name']
+        valueField: "author_name"
         multiple: true
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: tags
@@ -51,5 +51,5 @@ collections:
     identifier_field: author_name
     fields:
       - { label: 'Name', name: 'author_name', widget: 'string' }
-      - { label: 'bio', name: 'author_description', widget: 'markdown'}
-      - { label: 'photo', name: 'author_photo', widget: 'image'}
+      - { label: 'Bio', name: 'author_description', widget: 'markdown'}
+      - { label: 'Photo', name: 'author_photo', widget: 'image'}
