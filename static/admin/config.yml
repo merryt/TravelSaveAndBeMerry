@@ -26,6 +26,13 @@ collections:
         searchFields: ['tag_title']
         valueField: "tag_title"
         multiple: true
+      - name: author
+        label: Author
+        widget: relation
+        collection: "authors"
+        searchfields: ['author_name']
+        valuefield: 'author_name'
+        multiple: true
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: tags
     label: Tags
@@ -38,7 +45,7 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
   - name: authors
     label: Authors
-    folder: static/authors
+    folder: static/authors/
     create: true
     slug: '{{author_name}}'
     identifier_field: author_name
