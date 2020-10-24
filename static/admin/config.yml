@@ -29,7 +29,7 @@ collections:
       - name: authors
         label: Authors
         widget: relation
-        collection: "tags"
+        collection: "authors"
         searchfields: ['author_name']
         valuefield: 'author_name'
         multiple: true
