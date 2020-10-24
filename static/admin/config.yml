@@ -33,6 +33,15 @@ collections:
     create: true
     slug: '{{tag_title}}'
     identifier_field: tag_title
-    fields:	
-      - { label: 'Title', name: 'tag_title', widget: 'string' }	
+    fields:
+      - { label: 'Title', name: 'tag_title', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }
+  - name: authors
+    label: Authors
+    folder: static/authors
+    create: true
+    slug: '{{author_name}}'
+    identifier_field: author_name
+    fields:
+      - { label: 'Name', name: 'author_name', widget: 'string' }
+      - { label: 'bio', name: 'author_description', widget: 'markdown'}
