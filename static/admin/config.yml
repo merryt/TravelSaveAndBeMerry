@@ -28,11 +28,11 @@ collections:
         multiple: true
       - name: author
         label: Author
-        widget: "string"
-        # collection: "authors"
-        # searchfields: ['author_name']
-        # valuefield: 'author_name'
-        # multiple: true
+        widget: relation
+        collection: "authors"
+        searchfields: ['author_name']
+        valuefield: "author_name"
+        multiple: true
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: tags
     label: Tags
