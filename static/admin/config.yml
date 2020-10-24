@@ -29,9 +29,9 @@ collections:
       - name: author
         label: Author
         widget: relation
-        collection: "authors"
-        searchfields: ['author_name']
-        valuefield: 'author_name'
+        collection: "tags"
+        searchfields: ['tag_title']
+        valuefield: 'tag_title'
         multiple: true
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: tags
