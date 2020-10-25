@@ -6,7 +6,7 @@
         <p v-html="cardData.description"></p>
         <div class="card-author-profile">
             <img class="profile-img" alt="" src="#" />
-            Randi
+            {{ cardData.author }}
         </div>
     </div>
 </template>
@@ -29,8 +29,13 @@ export default {
             },
         },
     },
+    data() {
+        return {
+            authors: this.$store.state.authors,
+        }
+    },
     mounted() {
-        console.log(this.cardData)
+        console.log(this.authors)
     },
 }
 </script>

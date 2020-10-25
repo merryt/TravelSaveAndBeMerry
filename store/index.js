@@ -6,16 +6,35 @@ export const mutations = {
     setBlogPosts(state, list) {
         state.blogPosts = list
     },
+    setAuthors(state, list) {
+        state.authors = list
+    },
 }
 
 export const actions = {
     async nuxtServerInit({ commit }) {
-        const files = await require.context('~/static/posts/', false, /\.json$/)
-        const blogPosts = files.keys().map((key) => {
-            const res = files(key)
+        const postFiles = await require.context(
+            '~/static/posts/',
+            false,
+            /\.json$/,
+        )
+        const blogPosts = postFiles.keys().map((key) => {
+            const res = postFiles(key)
             res.slug = key.slice(2, -5)
             return res
         })
         await commit('setBlogPosts', blogPosts)
+
+        const authorFiles = await require.context(
+            '~/static/authors/',
+            false,
+            /\.md/,
+        )
+        const authors = authorFiles.keys().map((key) => {
+            const res = authorFiles(key)
+            res.slug = key.slice(2, -3)
+            return res
+        })
+        await commit('setAuthors', authors)
     },
 }

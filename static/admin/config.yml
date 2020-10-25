@@ -45,6 +45,7 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
   - name: authors
     label: Authors
+    format: json
     folder: static/authors/
     create: true
     slug: '{{author_name}}'
