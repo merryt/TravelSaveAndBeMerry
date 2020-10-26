@@ -1,12 +1,17 @@
 <template>
     <div class="card">
         <img class="card-img" :alt="cardData.title" :src="cardData.thumbnail" />
-
-        <h2 class="display">{{ cardData.title }}</h2>
+        <nuxt-link
+            :to="{ path: 'blog/' + cardData.slug }"
+            tag="h2"
+            class="display"
+        >
+            {{ cardData.title }}
+        </nuxt-link>
         <p v-html="cardData.description"></p>
         <div class="card-author-profile">
-            <img class="profile-img" alt="" src="#" />
-            {{ cardData.author }}
+            <img class="profile-img" alt="" :src="primaryAuthor.author_photo" />
+            {{ primaryAuthor.author_name }}
         </div>
     </div>
 </template>
@@ -31,11 +36,18 @@ export default {
     },
     data() {
         return {
-            authors: this.$store.state.authors,
+            authors: '',
+            primaryAuthor: {},
+            allAuthors: this.$store.state.authors,
         }
     },
     mounted() {
-        console.log(this.authors)
+        this.authors = this.allAuthors.filter(
+            (author) =>
+                author.slug.toLowerCase() ===
+                this.cardData.author[0].toLowerCase(),
+        )
+        this.primaryAuthor = this.authors[0]
     },
 }
 </script>
@@ -57,13 +69,22 @@ export default {
 .card > h2 {
     margin: 0 var(--small-margin);
     color: var(--green-3);
+    cursor: pointer;
 }
 .card > p {
     margin-left: var(--small-margin);
     margin-right: var(--small-margin);
 }
 .card-author-profile {
-    margin-left: var(--small-margin);
+    margin: var(--small-margin);
+    display: flex;
+    align-items: center;
+}
+.profile-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
     margin-right: var(--small-margin);
 }
 

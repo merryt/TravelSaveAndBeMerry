@@ -23,16 +23,16 @@ export const actions = {
             res.slug = key.slice(2, -5)
             return res
         })
-        await commit('setBlogPosts', blogPosts)
 
+        await commit('setBlogPosts', blogPosts)
         const authorFiles = await require.context(
             '~/static/authors/',
             false,
-            /\.md/,
+            /\.json/,
         )
         const authors = authorFiles.keys().map((key) => {
             const res = authorFiles(key)
-            res.slug = key.slice(2, -3)
+            res.slug = key.slice(2, -5)
             return res
         })
         await commit('setAuthors', authors)
