@@ -13,8 +13,9 @@
             </div>
             {{ blogPost.date | moment('MMMM Do YYYY') }}
         </div>
-        <div v-html="$md.render(blogPost.body)" />
-        {{ blogPost }}
+        <hr />
+        <div v-html="$md.render(blogPost.body)"></div>
+        {{ blogPost.body }}
     </article>
 </template>
 

@@ -33,6 +33,7 @@ collections:
         searchFields: ['author_name']
         valueField: "author_name"
         multiple: true
+      - {label: "Map", name: "map", widget: "map" }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: tags
     label: Tags
