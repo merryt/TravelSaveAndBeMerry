@@ -1,22 +1,30 @@
 <template>
     <article>
-        <img alt="" :src="blogPost.thumbnail" />
-        <h1>{{ blogPost.title }}</h1>
-        <div class="post-meta">
-            <div
-                class="author"
-                v-for="author in authors"
-                v-bind:key="author.slug"
-            >
-                <img alt="" class="authorPhoto" :src="author.author_photo" />
-                {{ author }}
+        <img alt="" class="hero" :src="blogPost.thumbnail" />
+        <div class="blog-content">
+            <div class="post-meta">
+                <div
+                    class="author"
+                    v-for="author in authors"
+                    v-bind:key="author.slug"
+                >
+                    <img
+                        alt=""
+                        class="authorPhoto"
+                        :src="author.author_photo"
+                    />
+                    <h3 class="blog-author_name display">
+                        {{ author.author_name }}
+                    </h3>
+                </div>
+                <h3 class="blog-date display">
+                    {{ blogPost.date | moment('MMMM Do YYYY') }}
+                </h3>
             </div>
-            {{ blogPost.date | moment('MMMM Do YYYY') }}
+            <h1 class="display blog-header">{{ blogPost.title }}</h1>
+            <div class="blog" v-html="$md.render(blogPost.body)"></div>
         </div>
-        <hr />
-        <div v-html="$md.render(blogPost.body)"></div>
-        <hr />
-        {{ blogPost.body }}
+        {{ blogPost }}
     </article>
 </template>
 
@@ -60,10 +68,47 @@ export default {
 </script>
 
 <style>
+.hero {
+    object-fit: cover;
+    width: 100%;
+    height: 200px;
+    margin-bottom: -4px;
+}
+.post-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.author {
+    display: flex;
+    align-items: center;
+}
 .authorPhoto {
     width: 40px;
     height: 40px;
     object-fit: cover;
     border-radius: 50%;
+    margin-right: 10px;
+}
+.blog-author_name,
+.blog-date {
+    color: var(--blackish);
+    font-size: 2rem;
+}
+.blog-header {
+    font-size: 4rem;
+    color: var(--green-2);
+}
+.blog-content {
+    background-color: var(--white);
+    padding: var(--small-margin) 10% var(--large-margin) 10%;
+    margin-top: 0;
+}
+.blog p {
+    margin-bottom: var(--small-margin);
+    line-height: 1.6em;
+}
+.blog iframe {
+    margin-bottom: var(--small-margin);
 }
 </style>

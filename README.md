@@ -4,8 +4,8 @@
 
 
 ## TODO/Status
-- Tags are kinda broken, they are in the admin, but not linked correctly to the post... so check out https://www.netlifycms.org/docs/custom-widgets for more info... ideally this would auto complete...
-- https://www.netlifycms.org/docs/widgets/list/
+- Hook up map/corrdinates
+- Responsive for blog page
 
 
 ## Build Setup

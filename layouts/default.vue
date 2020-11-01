@@ -16,7 +16,9 @@
     --yellow-2: #f0ead9;
     --yellow-1: #f5f3f1;
     --blue-2: #35495e;
+    --blue-3: #f4f8fb;
     --white: #ffffff;
+    --blackish: #242424;
     --shadowColor: 0px 0px 10px 4px rgba(0, 0, 0, 0.08);
 
     --small-margin: 19px;
@@ -34,6 +36,7 @@ html {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     box-sizing: border-box;
+    background-color: var(--blue-3);
     background-color: var(--yellow-1);
 }
 
