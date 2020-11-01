@@ -49,7 +49,9 @@ export default {
     extend(config, ctx) {}
   },
   markdownit: {
-    injected: true,
+      injected: true,
+      html: true,
+      breaks: true,
   },
   generate: {
     routes: function() {

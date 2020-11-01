@@ -15,6 +15,7 @@
         </div>
         <hr />
         <div v-html="$md.render(blogPost.body)"></div>
+        <hr />
         {{ blogPost.body }}
     </article>
 </template>
