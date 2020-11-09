@@ -26,6 +26,7 @@ collections:
         searchFields: ['tag_title']
         valueField: "tag_title"
         multiple: true
+        require: false
       - name: author
         label: Author
         widget: relation
@@ -33,7 +34,7 @@ collections:
         searchFields: ['author_name']
         valueField: "author_name"
         multiple: true
-      - {label: "Map", name: "map", widget: "map" }
+      - {label: "Map", name: "map", widget: "map", required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: tags
     label: Tags
