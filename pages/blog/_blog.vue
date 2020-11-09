@@ -24,15 +24,30 @@
             <h1 class="display blog-header">{{ blogPost.title }}</h1>
             <div class="blog" v-html="$md.render(blogPost.body)"></div>
         </div>
-        {{ blogPost }}
+        <div class="cards">
+            <Card
+                v-for="post in posts"
+                v-bind:key="post.slug"
+                :cardData="post"
+                class="card"
+            />
+            <PromoCard class="card" tag="Photography"></PromoCard>
+        </div>
     </article>
 </template>
 
 <script>
+import Card from '~/components/Card.vue'
+import PromoCard from '~/components/PromoCard.vue'
+
 export default {
+    components: {
+        Card,
+        PromoCard,
+    },
     data() {
         return {
-            test: 'er',
+            posts: this.$store.state.blogPosts.slice(0, 2),
         }
     },
     async asyncData({ params, payload }) {

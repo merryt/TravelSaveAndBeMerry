@@ -108,12 +108,4 @@ export default {
     font-size: 2em;
     color: var(--green-3);
 }
-
-.cards {
-    margin: 0 var(--large-margin);
-    display: flex;
-}
-.card {
-    margin-right: 5%;
-}
 </style>

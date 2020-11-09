@@ -86,4 +86,53 @@ html {
     color: #fff;
     background-color: var(--blue-2);
 }
+
+.cards {
+    margin: 0 var(--large-margin);
+    display: flex;
+}
+.card {
+    animation: 1s appear;
+    width: 30%;
+    overflow: hidden;
+    box-shadow: var(--shadowColor);
+    background-color: var(--white);
+    margin-top: var(--large-margin);
+    margin-right: 5%;
+    border-radius: var(--border-radius-size);
+}
+.card-img {
+    width: 100%;
+}
+
+.card > h2 {
+    margin: 0 var(--small-margin);
+    color: var(--green-3);
+    cursor: pointer;
+}
+.card > p {
+    margin-left: var(--small-margin);
+    margin-right: var(--small-margin);
+}
+.card-author-profile {
+    margin: var(--small-margin);
+    display: flex;
+    align-items: center;
+}
+.profile-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: var(--small-margin);
+}
+
+@keyframes appear {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
 </style>
