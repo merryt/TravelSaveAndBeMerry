@@ -6,7 +6,8 @@
 ## TODO/Status
 - Hook up map/corrdinates
 - Responsive for blog page
-
+- Responsive for cards
+- Compare SEO with existing travel save and be merry
 
 ## Build Setup
 
