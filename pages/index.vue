@@ -22,7 +22,9 @@
                     v-for="post in posts"
                     v-bind:key="post.slug"
                     :cardData="post"
+                    class="card"
                 />
+                <PromoCard class="card" tag="Photography"></PromoCard>
             </div>
 
             <!-- example link -->
@@ -34,11 +36,13 @@
 <script>
 import Navigation from '~/components/Navigation.vue'
 import Card from '~/components/Card.vue'
+import PromoCard from '~/components/PromoCard.vue'
 
 export default {
     components: {
         Navigation,
         Card,
+        PromoCard,
     },
     data() {
         return {
@@ -107,5 +111,9 @@ export default {
 
 .cards {
     margin: 0 var(--large-margin);
+    display: flex;
+}
+.card {
+    margin-right: 5%;
 }
 </style>

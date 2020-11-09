@@ -4,5 +4,6 @@
   "singleQuote": true,
   "endOfLine": "auto",
   "tabWidth": 4,
-  "trailingComma": "all"
+  "trailingComma": "all",
+  "unexpected-solidus-in-tag": false,
 }
