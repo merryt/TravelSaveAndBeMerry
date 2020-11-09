@@ -55,7 +55,11 @@ export default {
     computed: {
         topThreePosts() {
             const postsMatchingTag = this.posts.filter((post) => {
-                return post.tag.includes(this.tag)
+                if (post.tag) {
+                    return post.tag.includes(this.tag)
+                } else {
+                    return false
+                }
             })
             return postsMatchingTag.slice(0, 3)
         },
@@ -124,6 +128,7 @@ export default {
     margin-top: var(--small-margin);
     padding-bottom: var(--small-margin);
     border-bottom: 1px solid rgba(255, 255, 255, 0.8);
+    padding: 0 10px;
 }
 .promo-card > a:last-of-type {
     border-bottom: none;
