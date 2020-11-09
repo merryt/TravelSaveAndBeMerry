@@ -22,7 +22,6 @@
                     v-for="post in posts"
                     v-bind:key="post.slug"
                     :cardData="post"
-                    class="card"
                 />
                 <PromoCard class="card" tag="Photography"></PromoCard>
             </div>

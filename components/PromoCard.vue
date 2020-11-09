@@ -69,14 +69,9 @@ export default {
 
 <style>
 .promo-card {
-    /* some styles come from card  */
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
-    overflow: hidden;
     position: relative;
     background-color: var(--green-3);
+    align-items: center;
 }
 
 .promo-card > * {
@@ -95,7 +90,7 @@ export default {
     height: 100%;
 }
 .promo-card::before {
-    background: url(/imgs/crystalmills4.jpg) no-repeat center center fixed;
+    background: url(/imgs/crystalmills4.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -126,9 +121,13 @@ export default {
 .promo-card > a {
     text-decoration: none;
     margin-top: var(--small-margin);
-    padding-bottom: var(--small-margin);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.8);
-    padding: 0 10px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    padding: 0 10px var(--small-margin) 10px;
+    text-align: center;
+    width: 90%;
+}
+.promo-card > a:first-of-type {
+    margin-top: 0;
 }
 .promo-card > a:last-of-type {
     border-bottom: none;
