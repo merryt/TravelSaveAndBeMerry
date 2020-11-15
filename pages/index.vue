@@ -97,6 +97,19 @@ export default {
     align-self: start;
     /* todo, make this responsive, perhaps absolute with left and right for randi and tyler respectively  */
 }
+
+@media only screen and (max-width: 600px) {
+    .personas {
+        height: 150px;
+    }
+    .personas > img {
+        height: 200px;
+    }
+    .title {
+        font-size: 22vw;
+    }
+}
+
 .about-us {
     background-color: var(--white);
     padding: 5% 20%;

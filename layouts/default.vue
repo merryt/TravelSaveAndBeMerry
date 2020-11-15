@@ -90,6 +90,8 @@ html {
 .cards {
     margin: 0 var(--large-margin);
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 .card {
     display: flex;
@@ -102,11 +104,19 @@ html {
     box-shadow: var(--shadowColor);
     background-color: var(--white);
     margin-top: var(--large-margin);
-    margin-right: 5%;
     border-radius: var(--border-radius-size);
 }
+
+@media only screen and (max-width: 600px) {
+    .card {
+        width: 100%;
+    }
+}
+
 .card-img {
     width: 100%;
+    max-height: 120px;
+    object-fit: cover;
 }
 
 .card > h2 {
@@ -117,6 +127,7 @@ html {
 .card > p {
     margin-left: var(--small-margin);
     margin-right: var(--small-margin);
+    flex-grow: 5;
 }
 .card-author-profile {
     margin: var(--small-margin);
