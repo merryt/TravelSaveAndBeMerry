@@ -8,7 +8,6 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "lambdatime": "netlify-lambda build functions",
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
   },
