@@ -4,7 +4,6 @@
 
 
 ## TODO/Status
-- Hook up map/corrdinates
 - Responsive for blog page
 - Compare SEO with existing travel save and be merry
 
