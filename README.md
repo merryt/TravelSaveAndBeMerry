@@ -4,7 +4,8 @@
 
 
 ## TODO/Status
-- stop flash for fonts loading
+- Stop flash for fonts loading
+- Move content
 
 ## Build Setup
 
