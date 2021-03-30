@@ -4,8 +4,7 @@
 
 
 ## TODO/Status
-- Responsive for blog page
-- Compare SEO with existing travel save and be merry
+- stop flash for fonts loading
 
 ## Build Setup
 

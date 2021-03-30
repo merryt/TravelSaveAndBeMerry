@@ -42,7 +42,7 @@ html {
 
 .display {
     /* we are bringing in just 700 weight */
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Amatic SC', sans-serif;
     font-weight: 700;
 }
 
