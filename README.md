@@ -2,10 +2,10 @@
 
 > Tyler and Randis Travel Blog
 
-
 ## TODO/Status
-- Stop flash for fonts loading
-- Move content
+
+-   Menu
+-   Move content
 
 ## Build Setup
 

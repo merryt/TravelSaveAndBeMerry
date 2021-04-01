@@ -1,5 +1,6 @@
 <template>
     <div>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link
             href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Montserrat:wght@100;400;700&display=swap"
             rel="stylesheet"
@@ -40,15 +41,21 @@ html {
     background-color: var(--yellow-1);
 }
 
+html.wf-loading * {
+    opacity: 0;
+}
+
 .display {
     /* we are bringing in just 700 weight */
     font-family: 'Amatic SC', sans-serif;
     font-weight: 700;
+    font-display: swap;
 }
 
 .sans-serif {
     /* we are bringing in 100 400 700 */
     font-family: 'Montserrat', sans-serif;
+    font-display: swap;
 }
 
 *,

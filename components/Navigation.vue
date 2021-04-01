@@ -1,28 +1,32 @@
 <template>
     <div class="navigation">
-        <div class="logo"></div>
+        <div class="logo">TSBM</div>
         <div class="nav-items">
-            <span>Home</span>
-            <span>Blog</span>
-            <span>Colorado</span>
+            <nuxt-link :to="{ path: '/' }" tag="a">
+                Home
+            </nuxt-link>
+            <nuxt-link :to="{ path: '/blog' }" tag="a">
+                Blog
+            </nuxt-link>
         </div>
     </div>
 </template>
 
 <style scoped>
 .navigation {
+    width: 100%;
+    position: absolute;
+    background: white;
     display: flex;
     justify-content: space-between;
 }
 
-.nav-items {
-    display: flex;
-}
-
-.nav-items > span {
+.nav-items > a {
     text-transform: uppercase;
     font-weight: 100;
     font-size: 24px;
     margin-left: 1rem;
+    text-decoration: none;
+    color: var(--blackish);
 }
 </style>

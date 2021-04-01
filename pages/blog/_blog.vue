@@ -1,5 +1,6 @@
 <template>
     <article>
+        <Navigation />
         <img alt="" class="hero" :src="blogPost.thumbnail" />
         <div class="blog-content">
             <div class="post-meta">
@@ -37,6 +38,7 @@
 </template>
 
 <script>
+import Navigation from '~/components/Navigation.vue'
 import Card from '~/components/Card.vue'
 import PromoCard from '~/components/PromoCard.vue'
 
@@ -44,6 +46,7 @@ export default {
     components: {
         Card,
         PromoCard,
+        Navigation,
     },
     data() {
         return {
