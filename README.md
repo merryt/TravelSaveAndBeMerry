@@ -6,6 +6,7 @@
 
 -   Menu
 -   Move content
+-   Blog page looks bad, specifically how images are handled
 
 ## Build Setup
 
