@@ -19,8 +19,13 @@
                     </h3>
                 </div>
                 <h3 class="blog-date display">
-                    {{ blogPost.date | moment('MMMM Do YYYY') }} --
-                    {{ blogPost.updatedDate | moment('MMMM Do YYYY') }}
+                    <div>
+                        Posted:{{ blogPost.date | moment('MMMM Do YYYY') }}
+                    </div>
+                    <div v-if="updatedDate > 0">
+                        Updated:
+                        {{ blogPost.updatedDate | moment('MMMM Do YYYY') }}
+                    </div>
                 </h3>
             </div>
             <h1 class="display blog-header">{{ blogPost.title }}</h1>
@@ -71,8 +76,7 @@ export default {
             return Date.parse(this.blogPost.date)
         },
         updatedDate() {
-            console.log('test')
-            return 'test'
+            return Date.parse(this.blogPost.updatedDate)
         },
         authors() {
             const allAuthors = this.$store.state.authors
@@ -86,10 +90,6 @@ export default {
                 return false
             })
         },
-    },
-    mounted() {
-        console.log('-----------------')
-        console.log(this.blogPost)
     },
 }
 </script>
