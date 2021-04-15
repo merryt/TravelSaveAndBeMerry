@@ -4,12 +4,11 @@
 
 ## TODO/Status
 
--   Menu
--   Move content
--   Blog page looks bad, specifically how images are handled
+-   Home page has to many items
+-   Blog list page looks pretty bad
+-   Blog post page looks bad, specifically how images are handled
 -   Build out http://travelsaveandbemerry.com/14ers-overview/
 -   Add blockquote styles from markdown (http://localhost:3000/blog/2021-04-01-a-correction-is-coming)
--   Updated date
 -   Site map
 
 ## Build Setup
