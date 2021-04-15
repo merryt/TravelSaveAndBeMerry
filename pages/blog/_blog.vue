@@ -19,7 +19,8 @@
                     </h3>
                 </div>
                 <h3 class="blog-date display">
-                    {{ blogPost.date | moment('MMMM Do YYYY') }}
+                    {{ blogPost.date | moment('MMMM Do YYYY') }} --
+                    {{ blogPost.updatedDate | moment('MMMM Do YYYY') }}
                 </h3>
             </div>
             <h1 class="display blog-header">{{ blogPost.title }}</h1>
@@ -69,6 +70,10 @@ export default {
         date() {
             return Date.parse(this.blogPost.date)
         },
+        updatedDate() {
+            console.log('test')
+            return 'test'
+        },
         authors() {
             const allAuthors = this.$store.state.authors
             return allAuthors.filter((author) => {
@@ -81,6 +86,10 @@ export default {
                 return false
             })
         },
+    },
+    mounted() {
+        console.log('-----------------')
+        console.log(this.blogPost)
     },
 }
 </script>
