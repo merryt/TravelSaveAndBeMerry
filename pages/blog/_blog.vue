@@ -138,4 +138,8 @@ export default {
 .blog iframe {
     margin-bottom: var(--small-margin);
 }
+
+.blog img {
+    max-width: 100%;
+}
 </style>

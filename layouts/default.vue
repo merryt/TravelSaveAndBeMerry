@@ -114,7 +114,13 @@ html.wf-loading * {
     border-radius: var(--border-radius-size);
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1000px) {
+    .card {
+        width: 48%;
+    }
+}
+
+@media only screen and (max-width: 700px) {
     .card {
         width: 100%;
     }
@@ -124,6 +130,10 @@ html.wf-loading * {
     width: 100%;
     max-height: 120px;
     object-fit: cover;
+}
+.card-header-link {
+    text-decoration: none;
+    color: var(--green-3);
 }
 
 h2.card-header {
