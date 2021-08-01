@@ -142,4 +142,9 @@ export default {
 .blog img {
     max-width: 100%;
 }
+
+.blog blockquote {
+    border-left: 10px solid var(--green-1);
+    padding-left: 30px;
+}
 </style>
