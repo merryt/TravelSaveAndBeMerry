@@ -1,13 +1,9 @@
 <template>
     <div class="navigation">
-        <div class="logo">TSBM</div>
+        <div class="logo">Travel Save & Be Merry</div>
         <div class="nav-items">
-            <nuxt-link :to="{ path: '/' }" tag="a">
-                Home
-            </nuxt-link>
-            <nuxt-link :to="{ path: '/blog' }" tag="a">
-                Blog
-            </nuxt-link>
+            <nuxt-link :to="{ path: '/' }">Home</nuxt-link>
+            <nuxt-link :to="{ path: '/blog' }">Blog</nuxt-link>
         </div>
     </div>
 </template>

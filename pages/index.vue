@@ -21,7 +21,7 @@
                 <Card
                     v-for="post in posts"
                     v-bind:key="post.slug"
-                    :cardData="post"
+                    v-bind:cardData="post"
                 />
                 <PromoCard class="card" tag="Photography"></PromoCard>
             </div>
