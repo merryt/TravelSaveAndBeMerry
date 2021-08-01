@@ -4,7 +4,6 @@
 
 ## TODO/Status
 
--   Blog list page looks pretty bad
 -   Blog post page looks bad, specifically how images are handled
 -   Build out http://travelsaveandbemerry.com/14ers-overview/
 -   Add blockquote styles from markdown (http://localhost:3000/blog/2021-04-01-a-correction-is-coming)
@@ -28,3 +27,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## to edit
+
+use the `/admin/` url

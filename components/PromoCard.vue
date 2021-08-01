@@ -55,6 +55,7 @@ export default {
     computed: {
         topThreePosts() {
             const postsMatchingTag = this.posts.filter((post) => {
+                console.log(post)
                 if (post.tag) {
                     return post.tag.includes(this.tag)
                 } else {

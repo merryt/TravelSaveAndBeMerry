@@ -23,7 +23,7 @@
                     :key="post.slug"
                     :cardData="post"
                 />
-                <PromoCard class="card" tag="Photography"></PromoCard>
+                <PromoCard class="card" tag="Colorado Hiking"></PromoCard>
             </div>
 
             <!-- example link -->

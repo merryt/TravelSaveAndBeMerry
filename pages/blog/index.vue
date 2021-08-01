@@ -2,18 +2,17 @@
     <article>
         <Navigation />
         <h1>Blog Post</h1>
-        <li v-for="blogPost in blogPosts" :key="blogPost.slug">
-            <nuxt-link :to="`blog/${blogPost.slug}`">{{
-                blogPost.title
-            }}</nuxt-link>
-        </li>
+        <div class="cards">
+            <Card v-for="post in blogPosts" :key="post.slug" :cardData="post" />
+        </div>
     </article>
 </template>
 
 <script>
 import Navigation from '~/components/Navigation.vue'
+import Card from '~/components/Card.vue'
 export default {
-    components: { Navigation },
+    components: { Navigation, Card },
     computed: {
         blogPosts() {
             return this.$store.state.blogPosts

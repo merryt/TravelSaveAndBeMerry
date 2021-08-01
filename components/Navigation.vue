@@ -1,6 +1,6 @@
 <template>
     <div class="navigation">
-        <div class="logo">Travel Save & Be Merry</div>
+        <div class="logo display">Travel Save & Be Merry</div>
         <div class="nav-items">
             <nuxt-link :to="{ path: '/' }">Home</nuxt-link>
             <nuxt-link :to="{ path: '/blog' }">Blog</nuxt-link>
