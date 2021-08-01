@@ -5,9 +5,9 @@
         <div class="blog-content">
             <div class="post-meta">
                 <div
-                    class="author"
                     v-for="author in authors"
-                    v-bind:key="author.slug"
+                    :key="author.slug"
+                    class="author"
                 >
                     <img
                         alt=""
@@ -34,8 +34,8 @@
         <div class="cards">
             <Card
                 v-for="post in posts"
-                v-bind:key="post.slug"
-                v-bind:cardData="post"
+                :key="post.slug"
+                :cardData="post"
                 class="card"
             />
             <PromoCard class="card" tag="Photography"></PromoCard>
@@ -54,11 +54,6 @@ export default {
         PromoCard,
         Navigation,
     },
-    data() {
-        return {
-            posts: this.$store.state.blogPosts.slice(0, 2),
-        }
-    },
     async asyncData({ params, payload }) {
         if (payload) {
             const blogPostData = payload
@@ -69,6 +64,11 @@ export default {
             return {
                 blogPost: await require(`~/static/posts/${params.blog}.json`),
             }
+        }
+    },
+    data() {
+        return {
+            posts: this.$store.state.blogPosts.slice(0, 2),
         }
     },
     computed: {

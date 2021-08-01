@@ -18,5 +18,6 @@ module.exports = {
     rules: {
         'vue/comment-directive': 'off',
         'vue/attribute-hyphenation': 'off',
+        'vue/no-v-html': 'off',
     },
 }
