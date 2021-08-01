@@ -2,12 +2,6 @@
 
 > Tyler and Randis Travel Blog
 
-## TODO/Status
-
--   Build out http://travelsaveandbemerry.com/14ers-overview/
--   Add blockquote styles from markdown (http://localhost:3000/blog/2021-04-01-a-correction-is-coming)
--   Site map
-
 ## Build Setup
 
 ```bash

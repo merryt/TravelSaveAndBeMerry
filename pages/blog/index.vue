@@ -1,7 +1,6 @@
 <template>
     <article>
         <Navigation />
-        <h1>Blog Post</h1>
         <div class="cards">
             <Card v-for="post in blogPosts" :key="post.slug" :cardData="post" />
         </div>

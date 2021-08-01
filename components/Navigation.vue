@@ -19,7 +19,6 @@
 .navigation {
     width: 100%;
     padding: 10px;
-    position: absolute;
     background: var(--white);
     display: flex;
     justify-content: space-between;

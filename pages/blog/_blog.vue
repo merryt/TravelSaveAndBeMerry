@@ -147,4 +147,8 @@ export default {
     border-left: 10px solid var(--green-1);
     padding-left: 30px;
 }
+.blog ul {
+    margin-top: var(--small-margin);
+    margin-bottom: var(--small-margin);
+}
 </style>
