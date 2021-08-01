@@ -2,7 +2,7 @@
     <article>
         <Navigation />
         <h1>Blog Post</h1>
-        <li v-for="blogPost in blogPosts" v-bind:key="blogPost.slug">
+        <li v-for="blogPost in blogPosts" :key="blogPost.slug">
             <nuxt-link :to="`blog/${blogPost.slug}`">{{
                 blogPost.title
             }}</nuxt-link>

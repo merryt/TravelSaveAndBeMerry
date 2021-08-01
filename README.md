@@ -4,7 +4,6 @@
 
 ## TODO/Status
 
--   Home page has to many items
 -   Blog list page looks pretty bad
 -   Blog post page looks bad, specifically how images are handled
 -   Build out http://travelsaveandbemerry.com/14ers-overview/

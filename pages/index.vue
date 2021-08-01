@@ -19,9 +19,9 @@
             </div>
             <div class="cards">
                 <Card
-                    v-for="post in posts"
-                    v-bind:key="post.slug"
-                    v-bind:cardData="post"
+                    v-for="post in posts.slice(0, 5)"
+                    :key="post.slug"
+                    :cardData="post"
                 />
                 <PromoCard class="card" tag="Photography"></PromoCard>
             </div>
@@ -52,8 +52,7 @@ export default {
         return {
             script: [
                 {
-                    src:
-                        'https://identity.netlify.com/v1/netlify-identity-widget.js',
+                    src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
                 },
             ],
         }
