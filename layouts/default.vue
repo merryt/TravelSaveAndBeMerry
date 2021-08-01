@@ -126,7 +126,7 @@ html.wf-loading * {
     object-fit: cover;
 }
 
-.card > h2 {
+h2.card-header {
     margin: 0 var(--small-margin);
     color: var(--green-3);
     cursor: pointer;

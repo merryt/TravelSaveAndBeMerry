@@ -1,12 +1,8 @@
 <template>
     <div class="card">
         <img class="card-img" :alt="cardData.title" :src="cardData.thumbnail" />
-        <nuxt-link
-            :to="{ path: 'blog/' + cardData.slug }"
-            tag="h2"
-            class="display"
-        >
-            {{ cardData.title }}
+        <nuxt-link :to="{ path: 'blog/' + cardData.slug }" class="display">
+            <h2 class="card-header">{{ cardData.title }}</h2>
         </nuxt-link>
         <p v-html="cardData.description"></p>
         <div class="card-author-profile">
