@@ -24,7 +24,7 @@ export const actions = {
             return res
         })
 
-        await commit('setBlogPosts', blogPosts)
+        await commit('setBlogPosts', blogPosts.reverse())
         const authorFiles = await require.context(
             '~/static/authors/',
             false,

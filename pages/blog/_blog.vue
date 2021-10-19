@@ -140,7 +140,9 @@ export default {
 }
 
 .blog img {
-    max-width: 100%;
+    max-width: 40%;
+    margin: 0 auto;
+    display: block;
 }
 
 .blog blockquote {
