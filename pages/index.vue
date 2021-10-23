@@ -13,8 +13,7 @@
                 <p>
                     Randi and Tyler walk through their experiences traveling,
                     saving, and finding happiness, well, sorta, we just liked
-                    the domain name! Tyler is a coder for The Motley Fool, and
-                    Randi is a Quality Assurance Manager for Guild Education!
+                    the domain name! We are currently slow traveling through Mexico and experiencing life out side the US.
                 </p>
             </div>
             <div class="cards">
