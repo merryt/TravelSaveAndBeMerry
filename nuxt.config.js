@@ -56,10 +56,10 @@ export default {
         breaks: true,
     },
     generate: {
-        routes: () => {
+        routes: async () => {
             const fs = require('fs')
             const path = require('path')
-            return fs.readdirSync('./static/posts').map((file) => {
+            return await fs.readdirSync('./static/posts').map((file) => {
                 return {
                     route: `/blog/${path.parse(file).name}`, // Return the slug
                     payload: require(`./static/posts/${file}`),
