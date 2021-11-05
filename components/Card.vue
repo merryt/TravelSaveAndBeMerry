@@ -2,7 +2,7 @@
     <div class="card">
         <img class="card-img" :alt="cardData.title" :src="cardData.thumbnail" />
         <nuxt-link
-            :to="{ path: 'blog/' + cardData.slug }"
+            :to="{ path: '/blog/' + cardData.slug }"
             class="display card-header-link"
         >
             <h2 class="card-header">{{ cardData.title }}</h2>
