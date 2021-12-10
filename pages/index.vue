@@ -13,7 +13,8 @@
                 <p>
                     Randi and Tyler walk through their experiences traveling,
                     saving, and finding happiness, well, sorta, we just liked
-                    the domain name! We are currently slow traveling through Mexico and experiencing life out side the US.
+                    the domain name! We are currently slow traveling through
+                    Mexico and experiencing life out side the US.
                 </p>
             </div>
             <div class="cards">
@@ -55,6 +56,9 @@ export default {
                 },
             ],
         }
+    },
+    mounted() {
+        console.log('thest')
     },
 }
 </script>
