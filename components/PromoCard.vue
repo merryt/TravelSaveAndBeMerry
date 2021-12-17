@@ -90,7 +90,7 @@ export default {
     height: 100%;
 }
 .promo-card::before {
-    background: url(/imgs/crystalmills4.jpg) no-repeat center center;
+    background: url(/images/crystalmills4.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

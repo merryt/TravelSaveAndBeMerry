@@ -2,8 +2,8 @@ backend:
     name: git-gateway
     repo: merryt/TravelSaveAndBeMerry
     branch: master
-media_folder: static/imgs
-public_folder: /imgs
+media_folder: static/images
+public_folder: /images
 collections:
     - name: posts
       label: Posts
