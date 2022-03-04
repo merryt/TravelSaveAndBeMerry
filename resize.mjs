@@ -1,4 +1,6 @@
 #!/usr/bin/env zx
+
+// this file is written with https://github.com/google/zx
 void (async function () {
     await fs.readdirSync('./static/images/').forEach(async (element) => {
         const width =
