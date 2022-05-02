@@ -28,12 +28,14 @@
 
             <!-- example link -->
             <!-- <nuxt-link to="/blog/" class="button--green">blog</nuxt-link> -->
+            <Ecap />
         </div>
     </div>
 </template>
 
 <script>
 import Navigation from '~/components/Navigation.vue'
+import Ecap from '~/components/Ecap.vue'
 import Card from '~/components/Card.vue'
 import PromoCard from '~/components/PromoCard.vue'
 
@@ -42,6 +44,7 @@ export default {
         Navigation,
         Card,
         PromoCard,
+        Ecap,
     },
     data() {
         return {
@@ -57,9 +60,7 @@ export default {
             ],
         }
     },
-    mounted() {
-        console.log('thest')
-    },
+    mounted() {},
 }
 </script>
 
