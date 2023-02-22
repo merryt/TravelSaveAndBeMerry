@@ -13,7 +13,7 @@
                 <p>
                     Randi and Tyler walk through their experiences traveling,
                     saving, and finding happiness, well, sorta, we just liked
-                    the domain name! We are currently Riding our bikes through
+                    the domain name! We are currently slow traveling around
                     Europe.
                 </p>
             </div>
