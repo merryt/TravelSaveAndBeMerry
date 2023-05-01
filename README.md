@@ -24,3 +24,10 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 ## to edit
 
 use the `/admin/` url
+
+
+## To run local functions for testing
+
+- fire up the app with `npm run dev`
+- run `netlify dev` in a seporate terminal. 
+- go to `http://localhost:8888/.netlify/functions/test` or what ever function and port make sense. 
