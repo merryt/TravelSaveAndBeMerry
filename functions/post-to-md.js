@@ -31,7 +31,7 @@ exports.handler = async (event, context, callback) => {
             responseBody += `title: ${title}\n`
         }
         if (thumbnail) {
-            responseBody += `title: ${thumbnail}\n`
+            responseBody += `coverPhoto: ${thumbnail}\n`
         }
         if (author) {
             responseBody += `authors: ${author}\n`
