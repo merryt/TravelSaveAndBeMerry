@@ -2,7 +2,7 @@
 date: 2017-03-20T06:00:00.000Z 
 description: White ranch is an easy and accessible hike close to denver.
 title: White Ranch Open Space
-title: /images/whiteranch4.jpeg
+coverPhoto: /images/whiteranch4.jpeg
 authors: Tyler
 tags: Colorado Hiking
 ---

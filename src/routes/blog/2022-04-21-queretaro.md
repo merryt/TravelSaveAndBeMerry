@@ -3,7 +3,7 @@ date: 2022-04-21T14:28:10.457Z
 updatedDate: 2022-04-21T14:28:10.475Z
 description: Queretaro is Pueblo Magicos in central Mexico where we got to spend a week. In addition to taking in wine, cheese, and beautiful aqueducts we took the week to plan our trip to Denver and the weeks following. 
 title: Queretaro
-title: /images/queretaro.jpg
+coverPhoto: /images/queretaro.jpg
 authors: Tyler
 tags: Mexico
 ---

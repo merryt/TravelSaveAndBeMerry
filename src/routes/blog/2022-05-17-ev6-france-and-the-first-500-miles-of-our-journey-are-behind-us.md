@@ -3,7 +3,7 @@ date: 2022-05-17T07:28:58.815Z
 updatedDate: 2022-05-17T07:28:58.841Z
 description: From the town of Mulhouse we look back at our first 500 miles and call out some of the things we have enjoyed so far.
 title: EV6 France, and the first 500 miles of our journey are behind us. 
-title: /images/ev6-france.jpg
+coverPhoto: /images/ev6-france.jpg
 authors: Tyler
 tags: Europe
 ---

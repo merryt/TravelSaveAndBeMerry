@@ -3,7 +3,7 @@ date: 2022-04-27T20:17:44.509Z
 updatedDate: 2022-04-27T20:17:44.525Z
 description: We are off to Europe with a one way ticket to Paris and our bikes!
 title: Getting started on our bike trip!
-title: /images/2022-biketrip-start.jpg
+coverPhoto: /images/2022-biketrip-start.jpg
 authors: Tyler
 tags: Europe
 ---

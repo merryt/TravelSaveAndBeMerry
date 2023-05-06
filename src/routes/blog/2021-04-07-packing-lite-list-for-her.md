@@ -2,7 +2,7 @@
 date: 2017-08-13T14:06:00.000Z 
 description: Packing lite can be hard, here is Randis 2017 list!
 title: Packing (Lite) List - for her
-title: /images/Randiclothing-small.jpg
+coverPhoto: /images/Randiclothing-small.jpg
 authors: Randi
 tags: Packing
 ---

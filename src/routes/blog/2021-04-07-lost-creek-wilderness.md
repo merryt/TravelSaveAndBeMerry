@@ -2,7 +2,7 @@
 date: 2019-07-10T06:00:00.000Z 
 description: Great backpacking location right on the colorado Trail accessible from denver
 title: Lost Creek Wilderness
-title: /images/Missouri3.jpeg
+coverPhoto: /images/Missouri3.jpeg
 authors: Randi
 tags: Camping,Colorado
 ---

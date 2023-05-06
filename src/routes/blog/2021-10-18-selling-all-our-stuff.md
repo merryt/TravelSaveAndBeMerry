@@ -3,7 +3,7 @@ date: 2021-10-18T21:13:54.431Z
 updatedDate: 2021-10-18T21:24:51.405Z
 description: Before our 2021+ Mexico trip we needed to slim down. 
 title: Selling all our stuff!
-title: /images/img_20211002_100551138.jpg
+coverPhoto: /images/img_20211002_100551138.jpg
 authors: Tyler
 tags: Packing
 ---

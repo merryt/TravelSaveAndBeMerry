@@ -3,7 +3,7 @@ date: 2022-07-08T00:41:30.464Z
 updatedDate: 2022-07-08T00:41:30.472Z
 description: Our bike ride ended in Germany, but luckily our trip still had a stop or two left in it.
 title: Austria to visit Dylan
-title: /images/austria2022.jpg
+coverPhoto: /images/austria2022.jpg
 authors: Tyler
 tags: Europe
 ---

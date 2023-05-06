@@ -2,7 +2,7 @@
 date: 2017-01-28T18:25:00.000Z 
 description: My 2015 trip to Croatia was everything I hoped it could be!
 title: Dalmatian Coast for the Frugal Traveler
-title: /images/p5280071.jpg
+coverPhoto: /images/p5280071.jpg
 authors: Randi
 tags: Croatia,Europe
 ---

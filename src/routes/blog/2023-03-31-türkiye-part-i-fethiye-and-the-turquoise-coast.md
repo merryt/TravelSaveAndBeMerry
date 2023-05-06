@@ -2,8 +2,8 @@
 date: 2023-03-31T05:54:24.396Z 
 updatedDate: 2023-03-31T05:54:24.408Z
 description: We are wrapping-up a delightful month-long stay in Fethiye (pronounced feh·tee·euh), Türkiye; which is a Mediterranean coastal town popular for sailing, british expats, and hiking. Fethiye has history dating back to the 5th century BC and has been inhabited by ancient Lycians, Greeks, Persians, Byzantines, and Ottomans. All of whom have left successive remnants of their civilizations that can be explored throughout the area.
-title: Türkiye Part I: Fethiye and the Turquoise Coast
-title: /images/fethiye-cover.jpg
+title: Türkiye Part I -  Fethiye and the Turquoise Coast
+coverPhoto: /images/fethiye-cover.jpg
 authors: Randi
 tags: 
 ---

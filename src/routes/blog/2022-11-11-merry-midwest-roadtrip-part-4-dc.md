@@ -2,8 +2,8 @@
 date: 2022-11-11T17:25:49.988Z 
 updatedDate: 2022-11-11T17:25:50.003Z
 description: Visiting friends, and riding bikes by a house on Pennsylvania Ave
-title: Merry MidWest Roadtrip Part 4: DC
-title: /images/roadtrip2022-dc.jpg
+title: Merry MidWest Roadtrip Part 4- DC
+coverPhoto: /images/roadtrip2022-dc.jpg
 authors: Tyler
 ---
 (Cover photo is [Gunboat Philadelphia](https://americanhistory.si.edu/exhibitions/gunboat-philadelphia) from 1700s)

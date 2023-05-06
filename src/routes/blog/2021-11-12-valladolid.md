@@ -3,7 +3,7 @@ date: 2021-11-12T16:47:27.016Z
 updatedDate: 2021-11-12T16:47:27.045Z
 description: Valladolid (Maya name Zací-Val) is a modern day quaint town in the state of Yucatan Mexico, but use to a early spanish town, and before that a booming Maya town. We stayed here for a week on our trip through Mexico!
 title: Valladolid
-title: /images/img_20211103_170741760_hdr.jpg
+coverPhoto: /images/img_20211103_170741760_hdr.jpg
 authors: Tyler
 tags: Mexico
 ---

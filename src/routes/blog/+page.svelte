@@ -1,11 +1,15 @@
-<script context="module">
-</script>
-
 <script>
+	import Card from '$lib/components/Card.svelte';
+	export let data;
 </script>
 
 <h1>Blog</h1>
-test 123123
 
-<style>
-</style>
+{#each data.posts as post}
+	<Card contents={post} />
+{/each}
+
+<h2>TODO:</h2>
+<ul>
+	<li>Responsive sizing and columns</li>
+</ul>

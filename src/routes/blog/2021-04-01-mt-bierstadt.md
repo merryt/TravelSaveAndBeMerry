@@ -2,7 +2,7 @@
 date: 2017-03-13T18:27:00.000Z 
 description: Mt Bierstadt is one of the most accessible 14ers that exist, but expect the crowds that go along with it.
 title: Mt Bierstadt
-title: /images/mtb4.jpg
+coverPhoto: /images/mtb4.jpg
 authors: Tyler
 tags: 14ers,Colorado Hiking
 ---

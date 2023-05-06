@@ -2,7 +2,7 @@
 date: 2017-03-04T17:41:00.000Z 
 description: Needs work
 title: Lessons learned living in 490 square feet
-title: /images/aboutus.jpeg
+coverPhoto: /images/aboutus.jpeg
 authors: Tyler
 tags: Money
 ---

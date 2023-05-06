@@ -3,7 +3,7 @@ date: 2021-12-10T21:49:25.726Z
 updatedDate: 2021-12-10T21:49:25.747Z
 description: Our next stop was the city of Guadalajara to Visit Freddy, Eme, Linc, Cal and all of Freddys family. We stayed with Freddys dad in Zapopan. The greater GDL metro area is 5m people and was founded in 1542.
 title: Guadalajara Mexico 2021
-title: /images/guadalajara.jpg
+coverPhoto: /images/guadalajara.jpg
 authors: Tyler
 tags: Mexico
 ---

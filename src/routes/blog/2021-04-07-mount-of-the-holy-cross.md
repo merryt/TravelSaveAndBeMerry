@@ -2,7 +2,7 @@
 date: 2017-08-07T14:02:00.000Z 
 description: Mount of the Holy cross is a lovely 14er that can be done if you want to camp, or if you want to do it all in one go!
 title: Mount of the Holy Cross
-title: /images/MtHC7.jpg
+coverPhoto: /images/MtHC7.jpg
 authors: Tyler
 tags: 14ers,Colorado Hiking,Colorado
 ---

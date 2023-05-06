@@ -3,7 +3,7 @@ date: 2022-01-22T02:00:40.824Z
 updatedDate: 2022-01-22T02:00:41.887Z
 description: CDMX the city in the valley, 6th largest city in the world, and a great spot for us to call home for a few weeks!
 title: Mexico City Part One
-title: /images/img_20211204_133609220.jpg
+coverPhoto: /images/img_20211204_133609220.jpg
 authors: Tyler
 tags: Mexico
 ---

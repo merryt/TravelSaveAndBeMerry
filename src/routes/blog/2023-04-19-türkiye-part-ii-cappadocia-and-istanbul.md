@@ -2,9 +2,9 @@
 date: 2023-04-19T06:37:00.740Z 
 updatedDate: 2023-04-19T06:37:00.746Z
 description: Our travels in Cappadocia and Istanbul in spring 2023
-title: Türkiye Part II: Cappadocia and Istanbul
-title: /images/turkiye2cover.jpg
-coverPhoto: Randi
+title: Türkiye Part II - Cappadocia and Istanbul
+coverPhoto: /images/turkiye2cover.jpg
+authors: Randi
 tags: Europe
 ---
 # which was once Constantinople (keep reading to learn why they changed it)

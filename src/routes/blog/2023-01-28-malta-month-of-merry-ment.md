@@ -3,7 +3,7 @@ date: 2023-01-28T08:50:13.640Z
 updatedDate: 2023-01-28T08:50:13.651Z
 description: Hello friends and family from the Mediterranean!! After a wonderful holiday season, including a month with Tyler’s family in North Carolina and a month with my family in Colorado, Tyler and I are back out on our own and continuing to slow-travel. So far, 2023 is looking like the year of Europe.
 title: Malta Month of MERRY-ment - Part I
-title: /images/malta1.jpg
+coverPhoto: /images/malta1.jpg
 authors: Randi
 tags: Europe
 ---

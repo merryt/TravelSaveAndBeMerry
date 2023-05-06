@@ -3,7 +3,7 @@ date: 2022-09-29T13:26:39.838Z
 updatedDate: 2022-09-29T13:26:39.849Z
 description: Our bike ride in Europe is behind is (or on pause, only time will tell)
 title: Back to the states!
-title: /images/moose.jpg
+coverPhoto: /images/moose.jpg
 authors: Tyler
 ---
 Our bike trip across Europe had to take a postponement due to a health issue with family. We had known it was coming for a long time, but the shock was almost as bad as if it was out of nowhere. We were very lucky to have lives that enabled us to give undistracted time to be there for family when they needed us most.

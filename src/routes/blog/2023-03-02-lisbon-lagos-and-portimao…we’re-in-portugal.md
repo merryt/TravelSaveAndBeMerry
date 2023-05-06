@@ -3,7 +3,7 @@ date: 2023-03-02T20:34:26.713Z
 updatedDate: 2023-03-02T20:34:26.726Z
 description: Tyler and I are finishing up a delightful 2-ish weeks in Portugal. If you’re interested in our high- (and low-) lights, continue reading.
 title: Lisbon, Lagos, and Portimao…We’re in Portugal
-title: /images/portugal1.jpg
+coverPhoto: /images/portugal1.jpg
 authors: Randi
 tags: Europe
 ---

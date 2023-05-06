@@ -3,7 +3,7 @@ date: 2022-02-05T15:39:34.361Z
 updatedDate: 2022-03-04T15:33:44.112Z
 description: From CDMX to Denver to NC and back again! Our travels take us home and back out and about!
 title: Mexico City Part Two (and a little NC and Denver)
-title: /images/co-nc-mx.jpg
+coverPhoto: /images/co-nc-mx.jpg
 authors: Tyler
 tags: Mexico
 ---

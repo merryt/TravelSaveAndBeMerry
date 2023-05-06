@@ -3,7 +3,7 @@ date: 2023-02-13T15:08:02.006Z
 updatedDate: 2023-02-13T15:10:00.000Z
 description: As our month in Malta comes to a close, we reflect on the things we learned and enjoyed about this historic island in the Mediterranean.  
 title: Malta Month of MERRY-ment - Part II
-title: /images/malta2.jpg
+coverPhoto: /images/malta2.jpg
 authors: Randi
 tags: Europe
 ---

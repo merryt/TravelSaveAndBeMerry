@@ -1,9 +1,9 @@
 ---
 date: 2022-10-01T14:52:51.451Z 
 updatedDate: 2022-10-01T14:52:51.465Z
-description: The start of our midwest roadtrip: MN and Canada
-title: Merry MidWest Roadtrip Part I: North Shore of Lake Superior
-title: /images/northshore.jpg
+description: The start of our midwest roadtrip - MN and Canada
+title: Merry MidWest Roadtrip Part I - North Shore of Lake Superior
+coverPhoto: /images/northshore.jpg
 authors: Randi
 ---
 But first....a succinct summer summary: After our spectacular Euro-biking adventure, Tyler and I spent Jun-Aug back in Denver to help care for my father and enjoy time with family. My father passed away on July 30th after a 4-year battle with cancer. I was immensely grateful for the ability to spend his last few months enjoying hours of patio time and even a few scotches, while caring for him in the comfort of my grandparents home. After his passing we made the plan to embark upon a US mid west roadtrip to see friends and family with whom we can never get enough time.

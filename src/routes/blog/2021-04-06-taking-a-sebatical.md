@@ -2,7 +2,7 @@
 date: 2021-04-06T16:39:39.066Z 
 description: Why Tyler isn't going to work for a bit.
 title: Taking a sebatical
-title: /images/aboutus.jpeg
+coverPhoto: /images/aboutus.jpeg
 authors: Tyler
 tags: Money
 ---

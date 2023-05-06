@@ -2,7 +2,7 @@
 date: 2017-03-12T18:17:00.000Z 
 description: North Table is a very accessible Denver hike!
 title: North Table Mountain
-title: /images/co-table-view-from-top.jpeg
+coverPhoto: /images/co-table-view-from-top.jpeg
 authors: Tyler
 tags: Colorado Hiking
 ---

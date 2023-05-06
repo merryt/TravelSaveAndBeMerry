@@ -3,7 +3,7 @@ date: 2022-03-04T15:55:42.215Z
 updatedDate: 2022-03-04T22:48:35.319Z
 description: We spent the month of February 2022 in a high elevation town called San Cristobal de las Casas.
 title: San Cristóbal de las Casas
-title: /images/sancris1.jpg
+coverPhoto: /images/sancris1.jpg
 authors: Tyler
 tags: Mexico
 ---

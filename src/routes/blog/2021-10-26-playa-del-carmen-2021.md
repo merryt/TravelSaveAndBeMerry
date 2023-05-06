@@ -3,7 +3,7 @@ date: 2021-10-26T00:07:22.671Z
 updatedDate: 2021-10-26T00:07:22.710Z
 description: Second stop in our trip!
 title: Playa Del Carmen (Mexico 2021)
-title: /images/img_20211018_073242885.jpg
+coverPhoto: /images/img_20211018_073242885.jpg
 authors: Tyler
 tags: Mexico
 ---

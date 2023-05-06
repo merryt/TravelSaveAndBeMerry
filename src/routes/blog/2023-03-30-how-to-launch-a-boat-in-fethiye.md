@@ -3,7 +3,7 @@ date: 2023-03-30T06:41:19.288Z
 updatedDate: 2023-03-30T06:41:19.307Z
 description: We got to see them move boats from a parking lot where they did dry repairs into the water
 title: How to launch a boat in Fethiye
-title: /images/fethiye-boat-launch-6.png
+coverPhoto: /images/fethiye-boat-launch-6.png
 authors: Randi,Tyler
 ---
 We were walking on the lovely 3-mile boardwalk around the bay in Fethiye. Today, they had a small tractor hooked up to a trailer and it was clear they were going to move a boat/ship.\

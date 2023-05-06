@@ -2,8 +2,8 @@
 date: 2022-10-19T01:58:26.656Z 
 updatedDate: 2022-10-19T01:58:26.668Z
 description: Dropping in from Canada we got to experience a bit of the abandon mitten and meat the trolls that live in the main land mitten state. 
-title: Merry MidWest Roadtrip Part 2: Michigan
-title: /images/traverse-city.jpg
+title: Merry MidWest Roadtrip Part 2- Michigan
+coverPhoto: /images/traverse-city.jpg
 authors: Tyler
 ---
 Our Michigan trip was defined by 3 locations

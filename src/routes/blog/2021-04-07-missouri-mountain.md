@@ -2,7 +2,7 @@
 date: 2018-06-26T14:17:00.000Z 
 description: Enjoyable as an overnite trip for sure
 title: Missouri Mountain
-title: /images/Missouri4.jpeg
+coverPhoto: /images/Missouri4.jpeg
 authors: Tyler
 tags: Colorado Hiking,Camping,14ers
 ---

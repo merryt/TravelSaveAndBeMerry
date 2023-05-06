@@ -3,7 +3,7 @@ date: 2021-11-05T21:18:29.764Z
 updatedDate: 2021-11-05T21:18:29.801Z
 description: We just finished our time in Porto Moralos and it was beautiful! We were joined on this section of the trip by Randi's Dad and spent a week relaxing on the beach!
 title: Puerto Morelos
-title: /images/pm1.jpg
+coverPhoto: /images/pm1.jpg
 authors: Tyler
 tags: Mexico
 ---

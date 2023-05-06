@@ -2,7 +2,7 @@
 date: 2021-07-03T13:52:00.000Z 
 description: The four pack followed by some 4wd. 
 title: Stuck in the snow after Mt. Democrat
-title: /images/stuckinsnow01.jpg
+coverPhoto: /images/stuckinsnow01.jpg
 authors: Tyler
 tags: 14ers,Colorado Hiking
 ---

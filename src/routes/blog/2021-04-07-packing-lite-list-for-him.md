@@ -2,7 +2,7 @@
 date: 2017-08-19T14:08:00.000Z 
 description: Packing light can be hard, here is Tylers 2017 list
 title: Packing (Lite) List - for him
-title: /images/tylersmallbits-small.jpg
+coverPhoto: /images/tylersmallbits-small.jpg
 authors: Tyler
 tags: Packing
 ---

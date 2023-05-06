@@ -2,7 +2,7 @@
 date: 2018-07-14T14:29:00.000Z 
 description: the location. This hike is a difficult down then return uphill trek. The varied terrain, ranging from woods, aspens groves, canyons, and meadows make it well worth the journey.
 title: Crested Butte to Crystal Mills via Schofield Pass
-title: /images/crystalmills1.jpg
+coverPhoto: /images/crystalmills1.jpg
 authors: Randi
 tags: Colorado Hiking
 ---
@@ -45,11 +45,11 @@ The trail became rocky and steep as we neared Devil's Punch Bowl and the creek c
 
 I thought for sure we would have to wade across the deep creek, but then Tyler found a hidden gem to the west of the road...a magical single track that enabled us to avoid the two deep creek crossings! Score one for the Ty-Guy!
 
-![Just to the west of the road at the creek crossing is a small foot bridge with the signage "Bridge to Terabithia"...saved us from the creek crossings.](/images/crystalmills6.jpg)
+![Just to the west of the road at the creek crossing is a small foot bridge with the signage 'Bridge to Terabithia'...saved us from the creek crossings.](/images/crystalmills6.jpg)
 
 The little single track popped out right at the second creek crossing through the willows.
 
-![A picture of where the single track put us back onto Schofield Pass Road...right through the willows straight ahead.](/images/crystalmills7.jpg)
+![Where the single track put us back onto Schofield Pass Road...right through the willows straight ahead.](/images/crystalmills7.jpg)
 
 The trail then descended into a gorgeous canyon. With each mile we hiked down, we knew the trek up would be warm and steep.
 
@@ -61,7 +61,7 @@ A large rock slide stood in the middle of the path, blocking the ATVs, Side-by-S
 
 After crossing a small bridge we continued down and down into the town of Crystal.
 
-[Tyler's photo-sphere pic.](https://photos.app.goo.gl/JETKHAoa8ThkGp9j8)
+[Sphere of the area](https://photos.app.goo.gl/JETKHAoa8ThkGp9j8)
 
 ![The small town of Crystal.](/images/crystalmills10.jpg)
 

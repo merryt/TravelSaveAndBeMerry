@@ -3,7 +3,7 @@ date: 2022-05-31T14:44:45.288Z
 updatedDate: 2022-05-31T14:44:45.314Z
 description: We didn't spend much time in Switzerland on this trip, but what we saw was great!
 title: Switzerland 2022 bike trip
-title: /images/rhinefalls.jpg
+coverPhoto: /images/rhinefalls.jpg
 authors: Tyler
 tags: Europe
 ---

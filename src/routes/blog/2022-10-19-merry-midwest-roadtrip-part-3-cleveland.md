@@ -2,8 +2,8 @@
 date: 2022-10-19T17:21:36.877Z 
 updatedDate: 2022-10-19T17:21:36.888Z
 description: To Cleveland! The land of endless sports disappointment and conversations about lake effect.
-title: Merry MidWest Roadtrip Part 3: Cleveland
-title: /images/clock.jpg
+title: Merry MidWest Roadtrip Part 3- Cleveland
+coverPhoto: /images/clock.jpg
 authors: Tyler
 ---
 (Cover code is of a clock my grandma owned that my aunt now has working in her living room)

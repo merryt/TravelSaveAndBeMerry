@@ -2,7 +2,7 @@
 date: 2017-01-29T18:50:00.000Z 
 description: Utilizing past experience of one frugal traveler, build your own Dalmatian Coast itinerary for a Croatian dream adventure.
 title: Croatia (Dalmatia Region) - Plan Your Own Adventure
-title: /images/croatia-restaraunt.jpg
+coverPhoto: /images/croatia-restaraunt.jpg
 authors: Randi
 tags: Croatia,Europe
 ---
