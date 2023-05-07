@@ -16,6 +16,7 @@
 		<li>sizing on dates</li>
 		<li>cards at bottom</li>
 		<li>promocard</li>
+		<li>responsive images</li>
 	</ul>
 	<img alt="" class="hero" src={data.coverPhoto} />
 	<div class="blog-content">

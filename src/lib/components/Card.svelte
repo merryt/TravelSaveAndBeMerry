@@ -7,7 +7,6 @@
 	export let contents: CardData;
 
 	const authorImg = contents.meta?.authors?.includes(',') ? 'Randi' : contents.meta.authors;
-	console.log(contents.meta);
 </script>
 
 <div class="card">
