@@ -1,16 +1,11 @@
 <script>
 	import Ecap from '$lib/components/Ecap.svelte';
 	import Card from '$lib/components/Card.svelte';
+	import PromoCard from '$lib/components/PromoCard.svelte';
 	export let data;
 </script>
 
 <div>
-	<hr />
-	<h2>TODO:</h2>
-	<ul>
-		<li>Promo cards</li>
-	</ul>
-	<hr />
 	<div>
 		<h1 class="title display">Travel Save & Be Merry</h1>
 		<div class="personas">
@@ -30,11 +25,8 @@
 			{#each data.posts as post}
 				<Card contents={post} />
 			{/each}
+			<PromoCard tag="Europe" />
 		</div>
-		<!-- <div class="cards">
-				<Card v-for="post in posts.slice(0, 5)" :key="post.slug" :cardData="post" />
-				<PromoCard class="card" tag="Colorado Hiking" />
-			</div> -->
 		<Ecap />
 	</div>
 </div>

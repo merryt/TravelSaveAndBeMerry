@@ -8,12 +8,10 @@ export async function load({ params }) {
     let filteredPosts: any = []
 
     if (tags) {
-        console.log(tags)
         const sortedPosts: Promise<{ meta: FrontMatter; path: string }[]> = getAllPosts();
         filteredPosts = (await sortedPosts).filter((post) => post.meta.tags?.includes(tags))
     }
     authors = authors.toString().split(',')
-    console.log(authors)
 
     return {
         description,

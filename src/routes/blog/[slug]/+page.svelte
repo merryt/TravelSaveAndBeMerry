@@ -14,9 +14,9 @@
 <article>
 	<h3>todo</h3>
 	<ul>
-		<li>sizing on dates</li>
-		<li>promocard</li>
 		<li>responsive images and images in general</li>
+		<li>moments for dates</li>
+		<li>promocard</li>
 		<li>related posts if post has multiple tags</li>
 	</ul>
 	<img alt="" class="hero" src={data.coverPhoto} />

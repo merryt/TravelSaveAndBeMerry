@@ -5,8 +5,6 @@
 	}
 
 	export let contents: CardData;
-	console.log(contents.meta.authors);
-	// const authorImg = contents.meta?.authors?.includes(',') ? 'Randi' : contents.meta.authors;
 </script>
 
 <div class="card">
@@ -24,42 +22,6 @@
 		{/each}
 	</div>
 </div>
-
-<!-- <script>
-export default {
-    props: {
-        cardData: {
-            type: Object,
-            default() {
-                return {
-                    body: 'Empty body',
-                    date: '2020-05-31T22:44:42.261Z',
-                    description: 'Here is the description',
-                    slug: '2020-05-31-test-post',
-                    tags: ['sloths'],
-                    thumbnail: '/img/2015-02-21-07.16.15.jpg',
-                    title: 'Test post',
-                }
-            },
-        },
-    },
-    data() {
-        return {
-            authors: '',
-            primaryAuthor: {},
-            allAuthors: this.$store.state.authors,
-        }
-    },
-    mounted() {
-        this.authors = this.allAuthors.filter(
-            (author) =>
-                author.slug.toLowerCase() ===
-                this.cardData.author[0].toLowerCase(),
-        )
-        this.primaryAuthor = this.authors[0]
-    },
-}
-</script> -->
 
 <style>
 	.card-authors {
