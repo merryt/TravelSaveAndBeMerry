@@ -1,20 +1,11 @@
 <script>
 	export let data;
 	import Card from '$lib/components/Card.svelte';
-	import { each } from 'svelte/internal';
-	const secondCard = {
-		path: '#',
-		meta: {
-			title: '123123',
-			coverPhoto: 'Randi.png'
-		}
-	};
 </script>
 
 <article>
 	<h3>todo</h3>
 	<ul>
-		<li>responsive images and images in general</li>
 		<li>moments for dates</li>
 		<li>promocard</li>
 		<li>related posts if post has multiple tags</li>
@@ -39,7 +30,9 @@
 			</h3>
 		</div>
 		<h1 class="display blog-header">{data.title}</h1>
-		<svelte:component this={data.content} />
+		<div class="blog">
+			<svelte:component this={data.content} />
+		</div>
 	</div>
 </article>
 
@@ -89,25 +82,5 @@
 		background-color: var(--white);
 		padding: var(--small-margin) 10% var(--large-margin) 10%;
 		margin-top: 0;
-	}
-	.blog p {
-		margin-bottom: var(--small-margin);
-		line-height: 1.6em;
-	}
-	.blog iframe {
-		margin-bottom: var(--small-margin);
-	}
-	.blog img {
-		max-width: 40%;
-		margin: 0 auto;
-		display: block;
-	}
-	.blog blockquote {
-		border-left: 10px solid var(--green-1);
-		padding-left: 30px;
-	}
-	.blog ul {
-		margin-top: var(--small-margin);
-		margin-bottom: var(--small-margin);
 	}
 </style>
