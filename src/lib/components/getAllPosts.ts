@@ -9,7 +9,7 @@ export async function getAllPosts() {
             const resolved: unknown = await resolver()
             const frontMatter: FrontMatter = resolved.metadata
             const postPath = path.slice(12, -3)
-            console.log(postPath)
+            frontMatter.authors = frontMatter.authors.toString().split(',')
             return {
                 meta: frontMatter,
                 path: postPath

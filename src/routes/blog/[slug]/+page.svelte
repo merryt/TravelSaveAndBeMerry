@@ -14,7 +14,6 @@
 <article>
 	<h3>todo</h3>
 	<ul>
-		<li>author (and multi author)</li>
 		<li>sizing on dates</li>
 		<li>promocard</li>
 		<li>responsive images and images in general</li>
@@ -23,27 +22,22 @@
 	<img alt="" class="hero" src={data.coverPhoto} />
 	<div class="blog-content">
 		<div class="post-meta">
-			<!-- <div
-				v-for="author in authors"
-				:key="author.slug"
-				class="author"
-			> -->
-			<!-- <img
-					alt=""
-					class="authorPhoto"
-					:src="author.author_photo"
-				/> -->
-			<!-- <h3 class="blog-author_name display">
-					{{ author.author_name }}
-				</h3> -->
+			{#each data.authors as author}
+				<div class="author">
+					<img alt={author} class="authorPhoto" src="/{author}.png" />
+					<h3 class="blog-author_name display">
+						{author}
+					</h3>
+				</div>
+			{/each}
+			<h3 class="blog-date display">
+				Posted: {data.date}
+				{#if data.updatedDate > 0}
+					Updated:
+					{data.updatedDate}
+				{/if}
+			</h3>
 		</div>
-		<h3 class="blog-date display">
-			Posted: {data.date}
-			{#if data.updatedDate > 0}
-				Updated:
-				{data.updatedDate}
-			{/if}
-		</h3>
 		<h1 class="display blog-header">{data.title}</h1>
 		<svelte:component this={data.content} />
 	</div>

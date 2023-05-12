@@ -4,7 +4,7 @@ interface FrontMatter {
     description: string;
     title: string;
     coverPhoto: string;
-    authors: string;
+    authors: Array<string>;
     tags: string;
 }
 

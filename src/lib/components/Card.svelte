@@ -6,7 +6,7 @@
 
 	export let contents: CardData;
 	console.log(contents.meta.authors);
-	const authorImg = contents.meta?.authors?.includes(',') ? 'Randi' : contents.meta.authors;
+	// const authorImg = contents.meta?.authors?.includes(',') ? 'Randi' : contents.meta.authors;
 </script>
 
 <div class="card">
@@ -15,9 +15,13 @@
 		<h2 class="card-header">{contents.meta.title}</h2>
 	</a>
 	<p>{contents.meta.description}</p>
-	<div class="card-author-profile">
-		<img class="profile-img" alt="Author photo" src="{authorImg}.png" />
-		{contents.meta.authors}
+	<div class="card-authors">
+		{#each contents.meta.authors as author}
+			<div class="card-author-profile">
+				<img alt={author} class="profile-img" src="/{author}.png" />
+				{author}
+			</div>
+		{/each}
 	</div>
 </div>
 
@@ -56,3 +60,9 @@ export default {
     },
 }
 </script> -->
+
+<style>
+	.card-authors {
+		display: flex;
+	}
+</style>
