@@ -1,12 +1,4 @@
-interface FrontMatter {
-    date: Date;
-    updatedDate: Date;
-    description: string;
-    title: string;
-    coverPhoto: string;
-    authors: string;
-    tags: string;
-}
+import type { FrontMatter } from "$lib/interfaces.ts";
 
 export async function getAllPosts() {
     // TODO: refactor all post files into a shared component

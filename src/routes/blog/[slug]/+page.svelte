@@ -1,6 +1,7 @@
 <script>
 	export let data;
 	import Card from '$lib/components/Card.svelte';
+	import { each } from 'svelte/internal';
 	const secondCard = {
 		path: '#',
 		meta: {
@@ -15,9 +16,9 @@
 	<ul>
 		<li>author (and multi author)</li>
 		<li>sizing on dates</li>
-		<li>cards at bottom</li>
 		<li>promocard</li>
-		<li>responsive images</li>
+		<li>responsive images and images in general</li>
+		<li>related posts if post has multiple tags</li>
 	</ul>
 	<img alt="" class="hero" src={data.coverPhoto} />
 	<div class="blog-content">
@@ -49,8 +50,11 @@
 </article>
 
 <div class="cards">
-	<Card contents={secondCard} />
-	<Card contents={secondCard} />
+	{#if data.related}
+		{#each data.related as post}
+			<Card contents={post} />
+		{/each}
+	{/if}
 	<!-- add promo card -->
 	<!-- <PromoCard class="card" tag="Photography"></PromoCard> -->
 </div>
