@@ -1,6 +1,7 @@
 <script>
 	export let data;
 	import Card from '$lib/components/Card.svelte';
+	import moment from 'moment';
 </script>
 
 <article>
@@ -22,10 +23,12 @@
 				</div>
 			{/each}
 			<h3 class="blog-date display">
-				Posted: {data.date}
-				{#if data.updatedDate > 0}
-					Updated:
-					{data.updatedDate}
+				<div>Posted: {moment(data.date).format('MMMM Do YYYY')}</div>
+				{#if moment(data.updatedDate).format('MMMM Do YYYY') != moment(data.date).format('MMMM Do YYYY')}
+					<div>
+						Updated:
+						{moment(data.updatedDate).format('MMMM Do YYYY')}
+					</div>
 				{/if}
 			</h3>
 		</div>

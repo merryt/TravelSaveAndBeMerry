@@ -3,7 +3,7 @@ import type { FrontMatter } from "$lib/interfaces.ts";
 
 export async function load({ params }) {
     const post = await import(`../${params.slug}.md`)
-    let { title, date, description, coverPhoto, authors, tags } = post.metadata
+    let { title, date, description, coverPhoto, authors, tags, updatedDate } = post.metadata
     const content = post.default
     let filteredPosts: any = []
 
@@ -21,6 +21,7 @@ export async function load({ params }) {
         date,
         authors,
         tags,
+        updatedDate,
         related: filteredPosts.slice(0, 2)
     }
 }
