@@ -1,7 +1,6 @@
 import type { FrontMatter } from "$lib/interfaces.ts";
 
 export async function getAllPosts() {
-    // TODO: refactor all post files into a shared component
     const allPostFiles = import.meta.glob('../../routes/blog/*.md')
     const iterablePostFiles = Object.entries(allPostFiles)
     const allPosts = await Promise.all(
