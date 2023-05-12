@@ -11,7 +11,7 @@
 
 <div class="card">
 	<img class="card-img" alt={contents.meta.title} src={contents.meta.coverPhoto} />
-	<a href="blog/{contents.path}" class="display card-header-link">
+	<a href={contents.path} class="display card-header-link">
 		<h2 class="card-header">{contents.meta.title}</h2>
 	</a>
 	<p>{contents.meta.description}</p>

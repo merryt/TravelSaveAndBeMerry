@@ -4,7 +4,8 @@
 	const secondCard = {
 		path: '#',
 		meta: {
-			title: '123123'
+			title: '123123',
+			coverPhoto: 'Randi.png'
 		}
 	};
 </script>

@@ -1,9 +1,21 @@
+<script>
+	import Ecap from '$lib/components/Ecap.svelte';
+	import Card from '$lib/components/Card.svelte';
+	export let data;
+</script>
+
 <div>
+	<hr />
+	<h2>TODO:</h2>
+	<ul>
+		<li>Promo cards</li>
+	</ul>
+	<hr />
 	<div>
 		<h1 class="title display">Travel Save & Be Merry</h1>
 		<div class="personas">
-			<img alt="" src="Randi.png" />
-			<img alt="" src="Tyler.png" />
+			<img alt="Randi's smiling face" src="Randi.png" />
+			<img alt="Tyler's smiling face" src="Tyler.png" />
 		</div>
 
 		<div class="about-us">
@@ -14,19 +26,16 @@
 				Europe.
 			</p>
 		</div>
-
-		<h2>TODO:</h2>
-		<ul>
-			<li>Ecap</li>
-			<li>Cards</li>
-			<li>Promo cards</li>
-		</ul>
+		<div class="cards">
+			{#each data.posts as post}
+				<Card contents={post} />
+			{/each}
+		</div>
 		<!-- <div class="cards">
 				<Card v-for="post in posts.slice(0, 5)" :key="post.slug" :cardData="post" />
 				<PromoCard class="card" tag="Colorado Hiking" />
 			</div> -->
-
-		<!-- <Ecap /> -->
+		<Ecap />
 	</div>
 </div>
 
