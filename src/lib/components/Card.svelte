@@ -16,7 +16,7 @@
 	<div class="card-authors">
 		{#each contents.meta.authors as author}
 			<div class="card-author-profile">
-				<img alt={author} class="profile-img" src="/{author}.png" />
+				<img alt={author} class="profile-img" src="/{author.toLowerCase()}-profile.png" />
 				{author}
 			</div>
 		{/each}

@@ -14,7 +14,7 @@
 
 <div class="promo-card card">
 	<h4>Travel, Save, and be Merry</h4>
-	<h2 class="display">tag goes here - {tag}</h2>
+	<h2 class="display">{tag}</h2>
 	<svg
 		width="183"
 		height="149"

@@ -24,7 +24,7 @@
 		<div class="post-meta">
 			{#each data.authors as author}
 				<div class="author">
-					<img alt={author} class="authorPhoto" src="/{author}.png" />
+					<img alt={author} class="authorPhoto" src="/{author.toLowerCase()}-profile.png" />
 					<h3 class="blog-author_name display">
 						{author}
 					</h3>
