@@ -55,7 +55,6 @@
 	}
 	.personas > img {
 		align-self: start;
-		/* todo, make this responsive, perhaps absolute with left and right for randi and tyler respectively  */
 	}
 	@media only screen and (max-width: 600px) {
 		.personas {

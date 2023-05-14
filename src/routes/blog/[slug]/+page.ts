@@ -6,10 +6,10 @@ export async function load({ params }) {
     let { title, date, description, coverPhoto, authors, tags, updatedDate } = post.metadata
     const content = post.default
     let filteredPosts: any = []
-
-    if (tags) {
+    const firstTag = tags.split(",")[0]
+    if (firstTag) {
         const sortedPosts: Promise<{ meta: FrontMatter; path: string }[]> = getAllPosts();
-        filteredPosts = (await sortedPosts).filter((post) => post.meta.tags?.includes(tags))
+        filteredPosts = (await sortedPosts).filter((post) => post.meta.tags?.includes(firstTag))
     }
     authors = authors.toString().split(',')
 
@@ -21,6 +21,7 @@ export async function load({ params }) {
         date,
         authors,
         tags,
+        firstTag,
         updatedDate,
         related: filteredPosts.slice(0, 2)
     }

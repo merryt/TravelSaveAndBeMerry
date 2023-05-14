@@ -1,16 +1,11 @@
 <script>
 	export let data;
 	import Card from '$lib/components/Card.svelte';
+	import PromoCard from '$lib/components/PromoCard.svelte';
 	import moment from 'moment';
 </script>
 
 <article>
-	<h3>todo</h3>
-	<ul>
-		<li>moments for dates</li>
-		<li>promocard</li>
-		<li>related posts if post has multiple tags</li>
-	</ul>
 	<img alt="" class="hero" src={data.coverPhoto} />
 	<div class="blog-content">
 		<div class="post-meta">
@@ -45,8 +40,9 @@
 			<Card contents={post} />
 		{/each}
 	{/if}
-	<!-- add promo card -->
-	<!-- <PromoCard class="card" tag="Photography"></PromoCard> -->
+	{#if data.firstTag}
+		<PromoCard tag={data.firstTag} />
+	{/if}
 </div>
 
 <style>
