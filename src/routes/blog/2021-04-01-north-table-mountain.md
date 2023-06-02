@@ -21,7 +21,7 @@ Some quick stats of the of the hike:
 * Total climb: 1022 feet
 * Total descent: 1132 feet
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1mILyP3JNyc6YMfjTXd_YSsBZMBg&hl=en" width="640" height="480"></iframe>
+<iframe title="Map of the day" src="https://www.google.com/maps/d/embed?mid=1mILyP3JNyc6YMfjTXd_YSsBZMBg&hl=en" width="640" height="480"></iframe>
 
 As you can see we didn't start tracking our hike until after we left the parking lot, but, its not to far off. A friend was controlling the GPS and remembered to turn it on at all, so no room to be frustrated with him at all... It is totally cool to get frustrated with the first section though. At the car I was shivering like a pathetic pile of non-manly man... (un)luckily The hike begins with a ~450 vertical feet climb over the first 1/2 mile. So the cold was quickly replaced with breathing pain and regret.
 
@@ -41,4 +41,4 @@ Mike C. and Randi lead the pack for most of the hike...apparently they were not 
 
 Bonus: Here is a cool timelapse video we took last time we were there!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L68x8-E4HdQ" frameborder="0" allowfullscreen alt="test"></iframe>
+<iframe title="Timelapse video" width="560" height="315" src="https://www.youtube.com/embed/L68x8-E4HdQ" frameborder="0" allowfullscreen alt="test"></iframe>

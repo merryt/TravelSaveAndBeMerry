@@ -5,7 +5,7 @@ description: We are wrapping-up a delightful month-long stay in Fethiye (pronoun
 title: Türkiye Part I -  Fethiye and the Turquoise Coast
 coverPhoto: /images/fethiye-cover.jpg
 authors: Randi
-tags: 
+tags: Europe
 ---
 # Because we havent had our fill of Mediterranean hiking yet
 

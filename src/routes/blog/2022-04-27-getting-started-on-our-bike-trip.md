@@ -7,7 +7,7 @@ coverPhoto: /images/2022-biketrip-start.jpg
 authors: Tyler
 tags: Europe
 ---
-[](https://photos.app.goo.gl/nUUg5Lj5WbDYQFSU9)<https://photos.app.goo.gl/nUUg5Lj5WbDYQFSU9>
+[Photos](https://photos.app.goo.gl/nUUg5Lj5WbDYQFSU9)
 
 Day 1 - Big travel day!
 
@@ -26,4 +26,4 @@ Day 2 - First full day in France
 
 Hopefully this message finds you and you know I am safe!
 
-[](https://photos.app.goo.gl/nUUg5Lj5WbDYQFSU9)<https://photos.app.goo.gl/nUUg5Lj5WbDYQFSU9>
+[Photos](https://photos.app.goo.gl/nUUg5Lj5WbDYQFSU9)

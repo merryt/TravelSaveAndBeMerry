@@ -12,7 +12,7 @@ Packing lite was originally my husbands idea, but after a "practice trip" to Flo
 
 While I do not _love_ this pack, it is perfectly sufficent and gets the job done.
 
-![](/images/RandiPack-small-1.jpg)
+![CamelBak Backback](/images/RandiPack-small-1.jpg)
 
 #### Packing List:
 
@@ -20,29 +20,29 @@ While I do not _love_ this pack, it is perfectly sufficent and gets the job done
 
 The majority of my clothing is poly-blend materials, with one wool tee-shirt and my black sweater is also a wool blend. This is strategic for two primary goals: quick-drying and moisture-wicking. These materials are 1) affordable (because an all wool wardrobe would be far too expensive), 2) comfortable (soft and fitting), 3) able to be washed in a hostel sink and dry out overnight, and 4) less likely to hold body odor. Wool, tencel, and poly-blends are by typical go-to preferences.
 
-![](/images/Randiclothing-small.jpg)
+![Clothing](/images/Randiclothing-small.jpg)
 
 **Footwear** - two sandals (one fashion, one athletic)
 
 Given the summer weather we will experience, I do not need to be mindful of warmth in my footwear, which is a huge space saver. The Keen Sandals (Clearwater CNX) are great for hiking around and water sports. The Croc (Really Sexi) Sandals were a huge surprise for me. I bought them two years ago for my last trip to Croatia. They are surprisingly durable and comfortable for miles of walking...and less than $30 (win!). These two pairs of shoes are probably my favorite travel items.
 
-![](/images/randifootwear-small.jpg)
+![Shoes and Footware](/images/randifootwear-small.jpg)
 
 **Toiletries** - sunscreen (Neutrogena sunscreen stick; so it does not count towards liquids!), deodorant, nail file, chapstick, lotion, shampoo, conditioner, bar of soap, luffa, facewash, toothbrush, toothpaste, razor, hairspray, comb, bag of bobby pins and hairbands
 
 As a Coloradan, lotion and chapstick are addictions. For lotion, I searched far and wide for a non-liquid lotion, finally settling on this Shea Butter by Nubian Heritage. I have high hopes...we will see how it goes.
 
-![](/images/RandiToiletries-small.jpg)
+![Toiletries](/images/RandiToiletries-small.jpg)
 
 **Other Items** - travel purse, travel towel (may be unnecessary, we shall see), ipod, phone with electronic books, sunglasses, water bottle (hydration is important), first aid kit (with Aspirin, moleskin, band-aids, laxatives, etc.)
 
 For several travel adventures I have utilized this Vapur collapsible water bottle. It fits in my travel purse and is very convenient and lightweight. Only downside, it is only one liter, which is a bit smaller than I would prefer.
 
-![](/images/randiWaterBottleSmall.jpg)
+![Water bottle](/images/randiWaterBottleSmall.jpg)
 
 My travel purse is the Travelon Anti-Theft Classic Crossbody Bag. I find it to be a great size for all my necessities with far more security than I have ever needed.
 
-![](/images/randiBag-small.jpg)
+![Anti-Theft Bag](/images/randiBag-small.jpg)
 
 There you have it. All of my items (sans passport and credit cards) for three weeks in Europe, all packed into a 10-pound, 21-liter pack. I'm really excited to give minimal travel a go. More to come upon our return.
 

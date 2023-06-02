@@ -6,11 +6,11 @@ export async function load({ params }) {
     let { title, date, description, coverPhoto, authors, tags, updatedDate } = post.metadata
     const content = post.default
     let filteredPosts: any = []
-    const firstTag = tags.split(",")[0]
-    if (firstTag) {
-        const sortedPosts: Promise<{ meta: FrontMatter; path: string }[]> = getAllPosts();
-        filteredPosts = (await sortedPosts).filter((post) => post.meta.tags?.includes(firstTag))
-    }
+    let firstTag = tags ? tags.split(",")[0] : "Europe"
+
+    const sortedPosts: Promise<{ meta: FrontMatter; path: string }[]> = getAllPosts();
+    filteredPosts = (await sortedPosts).filter((post) => post.meta.tags?.includes(firstTag))
+
     authors = authors.toString().split(',')
 
     return {

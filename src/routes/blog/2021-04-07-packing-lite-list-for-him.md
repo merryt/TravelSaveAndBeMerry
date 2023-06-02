@@ -22,7 +22,7 @@ My father-in-law gave me this rain jacket, I think he found it at a bus stop. It
 
 **Button-up ExOfficio** - This shirt does a good job not smelling and drys pretty quickly for its warmth. If things ever get cold I normal put on an undershirt, a long sleeve, this buttonup, and my rain jacket. So far I haven't had any problems.
 
-![](/images/tylerbuttonup-small.jpg)
+![Tyler's Buttonup shirt](/images/tylerbuttonup-small.jpg)
 
 ##### Leg accessories
 
@@ -42,7 +42,7 @@ I am bringing **four pairs of ExOfficio briefs**, they are comfy, dry really fas
 
 I have a **long sleeve ExOffico** shirt that is great for when I need just a bit more warmth or sun protection.
 
-![](/images/tylerlongsleeve-small.jpg)
+![Shirts](/images/tylerlongsleeve-small.jpg)
 
 ##### Footies
 

@@ -55,7 +55,7 @@ Missouri, Belford, and Oxford can all be completed from the Missouri Gulch trail
 
 There is a great campsite right around 1.75 miles in, before you exit the trees. The campsite has a great snowmelt stream running about a quarter-mile away. This enables a hiker to get a good 1,500+ elevation gain out of the way before attempting either 14er trek...absolutely ideal!
 
-![Picture perfect camp spot.](/images/Missouri3.jpeg)
+![Perfect camp spot.](/images/Missouri3.jpeg)
 
 After the steep (but short), uphill trek into camp we enjoyed a relaxing evening in preparation for tomorrow's climb.
 
@@ -73,7 +73,7 @@ Marley (Andrew's pup) was a trooper, but the rocks seemed to bother his paws nea
 
 ![Near the summit, the only technical part of this trek.](/images/Missouri7.jpeg)
 
-![Traditional summit pic.](/images/Missouri8.jpeg)
+![Traditional summit group shot.](/images/Missouri8.jpeg)
 
 Back down at camp, time to pack-up and pack-out!
 

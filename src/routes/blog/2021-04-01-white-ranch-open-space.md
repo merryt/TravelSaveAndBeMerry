@@ -22,7 +22,7 @@ Some Quick Stats of the hike:
 
 Map of the hike!
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1V5AQJWg0grHoyGPlSB7bTXwhjkE&hl=en" width="640" height="480"></iframe>
+<iframe title="map of the hike" src="https://www.google.com/maps/d/embed?mid=1V5AQJWg0grHoyGPlSB7bTXwhjkE&hl=en" width="640" height="480"></iframe>
 
 This hike we are joined by Marly(doggo) Andrew, Elizabeth, and Mike! We met at trailhead at ~9am, way more achievable then a 3am start from trail head for Longs Peak.
 

@@ -7,7 +7,7 @@ coverPhoto: /images/ev6-france.jpg
 authors: Tyler
 tags: Europe
 ---
-(photos [](https://photos.app.goo.gl/FWzTPaGGtKsMRG2H7)<https://photos.app.goo.gl/FWzTPaGGtKsMRG2H7>)
+([photos](https://photos.app.goo.gl/FWzTPaGGtKsMRG2H7))
 
 We set out with a direction and a path, not knowing how long we would go or what lied in front of us. It seems at this point it is very feasible we will make it to Randi's Brother (Dylan). We are about 1/2 way to Linz, Austria. The pace we started out with (120 miles a week) now feels pretty easy and we think our natural pace might be closer to 180 miles a week. Weather has been great with only one day of light rain.
 
@@ -19,12 +19,12 @@ Outside of biking I have been working, studying a programing book I have long wa
 
 Here are our top four towns we have stayed in!
 
-[](https://en.wikipedia.org/wiki/Nevers)<https://en.wikipedia.org/wiki/Nevers>
+[https://en.wikipedia.org/wiki/Nevers](https://en.wikipedia.org/wiki/Nevers)
 
-[](https://en.wikipedia.org/wiki/Dole,_Jura)[https://en.wikipedia.org/wiki/Dole,_Jura](https://en.wikipedia.org/wiki/Dole,_Jura)
+[https://en.wikipedia.org/wiki/Dole,_Jura](https://en.wikipedia.org/wiki/Dole,_Jura)
 
-[](https://en.wikipedia.org/wiki/Besan%C3%A7on)[https://en.wikipedia.org/wiki/Besanon](https://en.wikipedia.org/wiki/Besan%C3%A7on)
+[https://en.wikipedia.org/wiki/Besanon](https://en.wikipedia.org/wiki/Besan%C3%A7on)
 
-[](https://en.wikipedia.org/wiki/Mulhouse)<https://en.wikipedia.org/wiki/Mulhouse>
+[https://en.wikipedia.org/wiki/Mulhouse](https://en.wikipedia.org/wiki/Mulhouse)
 
-(photos [](https://photos.app.goo.gl/FWzTPaGGtKsMRG2H7)<https://photos.app.goo.gl/FWzTPaGGtKsMRG2H7>)
+([Our photo gallery](https://photos.app.goo.gl/FWzTPaGGtKsMRG2H7))

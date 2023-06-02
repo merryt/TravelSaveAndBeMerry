@@ -15,7 +15,7 @@ We also got to spend a bunch of time with a few of our nephews which was a blast
 
 Shared photo link:
 
-[](https://photos.app.goo.gl/FtqQSpTUU7oZdLBV8)<https://photos.app.goo.gl/FtqQSpTUU7oZdLBV8>
+[Photo Gallery](https://photos.app.goo.gl/FtqQSpTUU7oZdLBV8)<https://photos.app.goo.gl/FtqQSpTUU7oZdLBV8>
 
 Randi's highlights: Time with family, including...
 

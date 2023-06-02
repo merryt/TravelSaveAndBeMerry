@@ -21,7 +21,7 @@ Randi worked a few days during the week, so on those days Randi's dad and I rode
 
 We did mostly home cooked meals while we were there. We cooked fish, octopus and shrimp. We also made sure to hit up at least one seafood restaurant where we had a least a few plates we couldn't pronounce with mostly wild success.
 
-[](https://photos.app.goo.gl/79EYgzSQjNe6X71j8)[](https://photos.app.goo.gl/79EYgzSQjNe6X71j8)
+[https://photos.app.goo.gl/79EYgzSQjNe6X71j8](https://photos.app.goo.gl/79EYgzSQjNe6X71j8)
 
 ![Randi and her dad out on the balcony enjoying the beach view.](/images/img_20211024_145447805_hdr.jpg "Randi and her dad out on the balcony enjoying the beach view.")
 

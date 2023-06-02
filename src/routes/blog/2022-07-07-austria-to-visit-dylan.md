@@ -7,7 +7,7 @@ coverPhoto: /images/austria2022.jpg
 authors: Tyler
 tags: Europe
 ---
-[](https://photos.app.goo.gl/yiR7rLGh2G3BXbES8)<https://photos.app.goo.gl/yiR7rLGh2G3BXbES8>
+[Photos from the trip](https://photos.app.goo.gl/yiR7rLGh2G3BXbES8)<https://photos.app.goo.gl/yiR7rLGh2G3BXbES8>
 
 **Austria**
 
@@ -15,4 +15,4 @@ We took a bus from Germany to Linz Austria to visit Dylan. Our arrival started w
 
 Our trip in Austria involved time in Linz and Vienna. Between the beer gardens and the great museums I am really looking forward to heading back. You can see some of the exhibits from the photo gallery links. 
 
-[](https://photos.app.goo.gl/yiR7rLGh2G3BXbES8)<https://photos.app.goo.gl/yiR7rLGh2G3BXbES8>
+[Photos from the trip](https://photos.app.goo.gl/yiR7rLGh2G3BXbES8)<https://photos.app.goo.gl/yiR7rLGh2G3BXbES8>

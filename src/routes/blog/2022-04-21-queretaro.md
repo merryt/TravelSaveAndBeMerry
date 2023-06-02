@@ -14,4 +14,4 @@ We only got to spend a week in Queretaro and a fair bit of it I spent working. M
 * Spending time planning for our next big adventure (Biking in europe)
 * Mentally working out how to make the most of our 3 weeks in Colorado.
 
-[](https://photos.app.goo.gl/8XEn8DWtknyd4vtf7)<https://photos.app.goo.gl/8XEn8DWtknyd4vtf7>
+[Photos](https://photos.app.goo.gl/8XEn8DWtknyd4vtf7)

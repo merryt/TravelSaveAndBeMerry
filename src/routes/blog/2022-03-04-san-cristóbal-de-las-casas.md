@@ -7,7 +7,7 @@ coverPhoto: /images/sancris1.jpg
 authors: Tyler
 tags: Mexico
 ---
-Photos: [](https://photos.app.goo.gl/vdP9GuBytyMppZgw5)<https://photos.app.goo.gl/vdP9GuBytyMppZgw5>
+[Photos](https://photos.app.goo.gl/vdP9GuBytyMppZgw5)<https://photos.app.goo.gl/vdP9GuBytyMppZgw5>
 
 For Feb 2022 our home was in the beautiful town of San Cristobal de las Casas. The name is absolutely a mouth full so San Cris will be used moving forward. Immediately entering San Cris the elevation reminded us of Colorado. The main part of the town is 2200 meters or 7200 feet, but there are a few churches on ends of the city that are up on hills that go up even higher! These churches are a great place to watch the sunset! I hear they are also good for sunrises, but I wouldnt know about that .  The house we stayed in for the month was garden apartment in someone's backyard!
 
@@ -19,7 +19,7 @@ During the month we tried a few different foods and went back to some of our fav
 
 While we were there, the weather was a bit cold and rainy on a few days, but we enjoyed the sunny days when we had them. We particularly enjoyed hiking up the neighboring peaks to look down on the city. It was great be hiking in nature again, this was a hobby we previously enjoyed, but with Randis CO Trail injury we have been touch and go for a few years. So we will take a few dozen pain free miles! Check out the link to the full gallery at the bottom of the post for pictures to see some of the hikes and caves we explored while we were there!
 
-![Photo of Randi and Tyler in the middle of their hike](/images/sancris3.jpg "Middle of our hike!")
+![Randi and Tyler in the middle of their hike](/images/sancris3.jpg "Middle of our hike!")
 
 
 
@@ -31,4 +31,4 @@ Next stop is Puebla!
 
 
 
-Photos: [](https://photos.app.goo.gl/vdP9GuBytyMppZgw5)<https://photos.app.goo.gl/vdP9GuBytyMppZgw5>
+[Photos](https://photos.app.goo.gl/vdP9GuBytyMppZgw5)<https://photos.app.goo.gl/vdP9GuBytyMppZgw5>

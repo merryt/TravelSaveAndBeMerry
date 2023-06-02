@@ -21,7 +21,7 @@ Total descent: 2786 feet
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1Vx8OJtb46UZyFnL25ACkSOPMhLI&hl=en" width="640" height="480"></iframe>
 
-![](/images/democrat-hike-elevation.png)
+![Elevation Profile](/images/democrat-hike-elevation.png)
 
 It was a beautiful, easy hike, with a tragically challenging trip from the trailhead to the paved road.
 

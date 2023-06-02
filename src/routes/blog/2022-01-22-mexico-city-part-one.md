@@ -7,7 +7,7 @@ coverPhoto: /images/img_20211204_133609220.jpg
 authors: Tyler
 tags: Mexico
 ---
-Link to album:[](https://photos.app.goo.gl/zjjR8VSS3iR6tBbT9)<https://photos.app.goo.gl/zjjR8VSS3iR6tBbT9>
+[Link to album](https://photos.app.goo.gl/zjjR8VSS3iR6tBbT9)<https://photos.app.goo.gl/zjjR8VSS3iR6tBbT9>
 
 I was very surprised by how much I enjoyed CDMX (ciudad de mxico aka, Mexico City)! It is a city filled with people, museums, parks, markets and life in general. CDMX has a population of 10 million and 22 million in the greater metro area. For comparison, Randi and I have lived in Colorado for the last ~10 years which has a population of 5m for the whole state. With so many people there are so many economies of scale that get opened up. CDMX has public transit via trains and buses, large parks with free events, and lots of museums.
 
@@ -24,4 +24,4 @@ Highlights from Randi:
 * Templo Mayor - the main temple of the Mexica people in their capital city of Tenochtitlan, which is now Mexico City. Its architectural site is in the center of the city and amazing to learn about and view.
 * CHURROS - which are everywhere!
 
-Link to album:[](https://photos.app.goo.gl/zjjR8VSS3iR6tBbT9)<https://photos.app.goo.gl/zjjR8VSS3iR6tBbT9>
+[Link to album](https://photos.app.goo.gl/zjjR8VSS3iR6tBbT9)<https://photos.app.goo.gl/zjjR8VSS3iR6tBbT9>
