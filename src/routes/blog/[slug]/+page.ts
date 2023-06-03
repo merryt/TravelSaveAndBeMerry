@@ -2,6 +2,9 @@ import { getAllPosts } from '$lib/components/getAllPosts.js'
 import type { FrontMatter } from "$lib/interfaces.ts";
 
 export async function load({ params }) {
+    // todo :
+    // - Remove self from related
+
     const post = await import(`../${params.slug}.md`)
     let { title, date, description, coverPhoto, authors, tags, updatedDate } = post.metadata
     const content = post.default
