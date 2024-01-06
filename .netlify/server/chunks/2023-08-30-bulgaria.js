@@ -1,0 +1,47 @@
+import { c as create_ssr_component } from "./index2.js";
+const metadata = {
+  "date": "2023-08-30T10:37:00.740Z",
+  "updatedDate": "2023-08-30T10:37:00.740Z",
+  "description": "Bulgaria suits me. We stayed here for a little over two months, and the country just clicked with me.",
+  "title": "Bulgaria! And other Merry Updates.",
+  "coverPhoto": "/images/bulgaria-cover.jpg",
+  "authors": "Tyler",
+  "tags": "Europe"
+};
+const _2023_08_30_bulgaria = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  return `<p>Here is what you can expect to read in this lengthy update: </p>
+<ul><li>Summary of Bulgaria and why I really like it here  </li>
+<li>Our bedbug saga</li>
+<li>Bansko and Plovdiv: more details about our time in Bulgaria </li>
+<li>Germany, immigration, and what’s next…</li></ul>
+<p>And here is the link to our Summer in Bulgaria photo album. (<a href="https://photos.app.goo.gl/JvYHtS3hjvJC8hVZ6" rel="nofollow">https://photos.app.goo.gl/JvYHtS3hjvJC8hVZ6</a>) </p>
+<h4>Chapter I: Quickly developing a comfort to and appreciation of Bulgaria</h4>
+<p>Over our 2+ months in Bulgaria I was pretty consistently forced to pause and say “ahhh, this is nice.” Coming into Bulgaria I brought some expectations about what Bulgarians were like. For example, I had the bias that Bulgarians, on average, are more confident than most when they tell you a fact or piece of information. And I wasn’t wrong; but it wasn’t nearly the negative attribute I had thought. A server at a restaurant in the US who says, “You don’t want that, get this, it’s better” would not be acceptable. Yet here, as long as it is in fact better (which was always my experience) it is all good. All the people we talked with here spoke AMAZING English. </p>
+<p>Learning the Cyrillic alphabet turned out to be a lot of fun. After a few days of flashcards I could read signs, and sometimes even understand what they were saying! I am sure Randi got sick of me sounding out every word I could see. </p>
+<p><img src="/images/bulgaria-1.jpg" alt="First day in Bulgaria"></p>
+<p>To get to Bulgaria we took a small bus from Romania, we got to drive by the backed up trucks that went on for miles at the Bulgarian/Romanian border. I am not totally sure why the blockage happened, I think it had to do with increased cargo going over land instead of through the water as a byproduct of the Russian war. I read that it can be a full days worth of driving for truck drivers to make it from one end of the line to the other at that one border crossing alone. We had a single night we spent near the border. In the morning we rode our first Bulgarian train. Although it wasn’t as nice as most other European trains, it got us to Sofia in one piece.</p>
+<p>We are still taking just our 25L and 30L backpacks, and they are pretty full. I normally travel while wearing my warm weather clothes, but as temperatures reach 100 degrees and not all trains and buses have effective AC that strategy is starting to fail me. Our trip to Sofia convinced me I am traveling with my sweatpants just one more time, then I am done with them.</p>
+<p><img src="/images/bulgaria-3.jpeg" alt="Alexander Nevsky Cathedral"> </p>
+<p>Our time in Sofia was mixed, we loved the city, food, touristic sites, but we did get bedbugs. We got to see some really cool churches. One of our favorites was St. Alexander Nevsky Cathedral. We found it a lot more awe inspiring than the Hagia Sophia in Istanbul. Sure Hagia Sophia was HUGE but its size made it so you kinda got lost. It reminded me of a huge football stadium. Compare this to the St. Alexander Nevsky Cathedral which was intricately painted so you could get lost in the details. </p>
+<p>We decided we had to return to give Sofia a second go. So we later returned to Sofia for our last week in Bulgaria. </p>
+<h4>Chapter II: The Bed Bug Saga</h4>
+<p>Upon arrival at a new location I normally do a light search of the mattress and surrounding area looking for bedbugs. This time was no different, I didn’t spot any. When Randi started getting bites we didn’t know if it was from mosquitos or from bedbugs, so searched the mattress again, but didn’t have any luck, so chalked it up to mosquitos. Our second morning after sleeping in the infested bed we figured it wasn’t mosquitos and searched a little bit harder. I ended up finding the bedbugs in the joints of the bedframe. The place we were staying sprayed everything down, and was having a professional come soon to deal with it. They moved us to a different room, but we still ran the risk of carrying them with us from place to place. So we rewatched the Mark Rober video on bedbugs and starting to build our plan of how to be responsible travelers. First thing we needed was Diatomaceous Earth (DE), second was heat. Diatomaceous earth can be found at hardware and health food stores. Since we were in a large city, health stores were a little easier to find than a Home Depot or Lowes. So on our third one we actually found a large bag. We gave every single item we own a shaking, inspection, and carefully moved it to our new “bug free” room. In the bug free room we put a thin layer of DE on the floor, around the beds, and in our bags.  Upon arrival at the new place we washed everything with the highest heat settings and created a DE barrier around everything. We never got additional bites so hopefully we stopped them spreading.</p>
+<h4>Chapter III: Bansko Mountain Hiking and Plovdiv City Living  </h4>
+<p>After Sofia (the first time) we went to a town called Bansko. Bansko reminded us very much of Breckenridge or Silverthorne. It is a small ski town in the winter and a gorgeous and relaxing summer escape. Randi greatly enjoyed the hiking right out our front door. We even got up into the alpine for a Colorado-esque hike. While in Bansko we felt very relaxed and peaceful. We met some wonderful fellow travelers from the US and enjoyed meeting up with them several times. We liked Bansko so much, we decided to return for another two weeks after our stay in Plovdiv. </p>
+<p><img src="/images/bulgaria-2.jpg" alt="Shot of our big hike"> </p>
+<p>A housesit of two cats brought us to Plovdiv, but we liked the city so much we stayed for an additional month. Apparently, this is a theme for each location we visit in Bulgaria. I really enjoy the culture, food, and environment here…more so than most places we have traveled. Plovediv is extremely rich in history. There is evidence of habitation in the area dating back to the 6th millennium BCE, when the first Neolithic settlements were established. We were lucky enough to enjoy a night of ballet at the 2,000 year old Ancient Roman Theater. We also enjoyed the board game bars and strolling along the many pedestrian walkways in town. </p>
+<p>It was also in Plovdiv where I interviewed for and was offered a position as a Designer with Memfault in their Berlin office. </p>
+<h4>Chapter IV: German immigration…Los Geht´s!! </h4>
+<p>Yep…we will be moving to Berlin for the foreseeable future. Randi had already dove into daily German lessons. During our time in Plovdiv, I started in my new position (remotely) while we work to immigrate to Germany. The immigration process has not been clear or easy thus far. But we have a Berlin apartment and a move-in date of October 1st! We trust that we figure out the rest. </p>
+<p>In other updates: </p>
+<ul><li>Tyler heads back State-side!! For a Memfault company retreat in upstate New York for a week</li>
+<li>Randi heads back to Dylan and Lenka in Vienna for some time with Lenka´s family</li>
+<li>We´ll spend most of September in Skopje, Macedonia (working to save up schengen visa days for our immigration to Germany)</li>
+<li>End of September will take us back to Austria for Dylan and Lenka´s wedding!!! </li>
+<li>October 1st: we move to Berlin! </li></ul>
+<p><img src="/images/bulgaria-4.jpg" alt="Car being pulled by horse"> </p>`;
+});
+export {
+  _2023_08_30_bulgaria as default,
+  metadata
+};
