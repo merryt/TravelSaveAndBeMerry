@@ -8,7 +8,7 @@ authors: Randi
 tags: Europe
 ---
 
-TL;DR  -   Tyler still works for Memfault in Berlin. We are still pretending to live in Berlin (but also taking advantage of seeing other European destinations). We enjoyed a visit back to North Carolina and Colorado last spring. We just finished a month in Innsbruck, Austria. We are now separating for a R- and T-Solo Adventure…then back to Berlin in August.
+**TL;DR  -   Tyler still works for Memfault in Berlin. We are still pretending to live in Berlin (but also taking advantage of seeing other European destinations). We enjoyed a visit back to North Carolina and Colorado last spring. We just finished a month in Innsbruck, Austria. We are now separating for a R- and T-Solo Adventure…then back to Berlin in August.**
 
 Hello friends and family!! It has been far too long since our last update and for that I am terribly sorry. Just in case you were wondering where we've been and how we've been spending our time, here is an update:
 
