@@ -2,7 +2,7 @@
 date: 2024-08-04T12:37:00.740Z
 updatedDate: 2024-08-04T12:37:00.740Z
 description: Randi's Solo Brompton Adventure
-title: from Innsbruck to Berlin (mostly) on a Brompton
+title: From Innsbruck to Berlin (mostly) on a Brompton
 coverPhoto: /images/2024-brompton-cover.jpg
 authors: Randi
 tags: Europe
