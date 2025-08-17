@@ -5,7 +5,7 @@ description: Hiking, biking, painting…plus a change of employment status
 title: Summer in the DACH Lands
 coverPhoto: /images/2025-dach-cover.jpg
 authors: Randi
-tags:
+tags: Europe, Bike
 ---
 
 Title: Summer in the DACH Lands

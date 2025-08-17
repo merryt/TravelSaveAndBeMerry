@@ -5,14 +5,14 @@ description: Poznan, Poland to Vienna, Austria
 title: Bike Trip on the Eurovelo 9
 coverPhoto: /images/2025-06-23-EV9-cover.jpg
 authors: Randi
-tags:
+tags: Europe, Bike
 ---
 
-TL;DR  -  **We managed to once again attain bicycles! What better way to celebrate than with a two-week bike trip as a means to get to Vienna for some family time. Three countries, three flat tires, one bike crash, and 530 miles later…we arrived in Vienna.**
+TL;DR - **We managed to once again attain bicycles! What better way to celebrate than with a two-week bike trip as a means to get to Vienna for some family time. Three countries, three flat tires, one bike crash, and 530 miles later…we arrived in Vienna.**
 
 The [photo album of our (mis-)adventures](https://photos.app.goo.gl/e2ykmaqTKyPqthxA9).
 
-While in Berlin last spring we managed to become the proud owners of some used gravel bikes. I found my bike at a springtime bicycle flea market and Tyler got his on the Berlin version of Craigslist. Sadly, I didn’t even have my bike for a full three weeks before the lock was cut and it was stolen while I was at the gym. To which everyone told me, yeah of course…welcome to Berlin. Lucky for me, a friend was selling her gravel bike so I quickly attained another bike (which from then on had to live in the bathroom because I was terrified it would also be stolen. 
+While in Berlin last spring we managed to become the proud owners of some used gravel bikes. I found my bike at a springtime bicycle flea market and Tyler got his on the Berlin version of Craigslist. Sadly, I didn’t even have my bike for a full three weeks before the lock was cut and it was stolen while I was at the gym. To which everyone told me, yeah of course…welcome to Berlin. Lucky for me, a friend was selling her gravel bike so I quickly attained another bike (which from then on had to live in the bathroom because I was terrified it would also be stolen.
 
 With bikes in possession we quickly started planning day rides and easy overnight bike trips out of Berlin. In May, we were able to join some friends camping by biking up to the lake they were camping at. Also in May we had our first Berlin visitor!! A good friend from Colorado was in Germany for work and was able to join us in Berlin for a 3-day bike trip. Germany seems to have really impressive bike routes.
 
@@ -22,7 +22,7 @@ In June, we needed a way to get to Vienna and we figured, why not by bike?!? We 
 
 Some highlights of our adventures included:
 
-**Poland**: We spent the first six days biking in Poland. We found it to be a very smiling culture with very friendly people happy to help and patient with language barriers. The food, a lot of perogies, potatoes, and schnitzel seems to agree with Tyler. Though sadly the weather was not ideal for us with a bit of rain and wind. Also, the bike route was mostly a mix of dirt roads (which turned very muddy with the rain) or on streets with other cars (not ideal). Based on this one experience, I am not sure I would recommend Poland for a bike trip. 
+**Poland**: We spent the first six days biking in Poland. We found it to be a very smiling culture with very friendly people happy to help and patient with language barriers. The food, a lot of perogies, potatoes, and schnitzel seems to agree with Tyler. Though sadly the weather was not ideal for us with a bit of rain and wind. Also, the bike route was mostly a mix of dirt roads (which turned very muddy with the rain) or on streets with other cars (not ideal). Based on this one experience, I am not sure I would recommend Poland for a bike trip.
 
 ![Biking through a mud pit after rainy day](/images/2025-06-biking-through-mud.jpg)
 
@@ -34,6 +34,6 @@ Some highlights of our adventures included:
 
 ![Tree lined path we biked through](/images/2025-06-EV6-Pretty-Path.jpg)
 
-**Austria**: Truth be told, we were only biking 1.5 days in Austria before reaching Vienna. In alignment with our past Austrian biking experiences, the infrastructure and biking culture is well-suited for biking holidays. The bike trails and cycle-biways are delightful. 
+**Austria**: Truth be told, we were only biking 1.5 days in Austria before reaching Vienna. In alignment with our past Austrian biking experiences, the infrastructure and biking culture is well-suited for biking holidays. The bike trails and cycle-biways are delightful.
 
-Tyler seemed to manage the daily grind of the riding better than me on this trip. I came into Vienna wiped out and very much in need of rest. Luckily we have two weeks of chill, family time before we head out on our next adventure: returning to Innsbruck for a month of hut hiking and mountain adventures. We’ll get one more 5-day bike trip in southern Germany before returning to Berlin for the end of summer. 
+Tyler seemed to manage the daily grind of the riding better than me on this trip. I came into Vienna wiped out and very much in need of rest. Luckily we have two weeks of chill, family time before we head out on our next adventure: returning to Innsbruck for a month of hut hiking and mountain adventures. We’ll get one more 5-day bike trip in southern Germany before returning to Berlin for the end of summer.
