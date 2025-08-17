@@ -8,9 +8,6 @@ authors: Randi
 tags: Europe, Bike
 ---
 
-Title: Summer in the DACH Lands
-Subtitle: Hiking, biking, painting…plus a change of employment status
-
 TL;DR -  
 We enjoyed a delightful (2nd annual) month in Innsbruck, Austria, which included a stunning hut-hiking trip along the Swiss-Austrian border.
 We then completed a 5-day bike trip in southern Germany, from Ulm to Nürnberg.
@@ -20,11 +17,13 @@ We currently have plans so head to southeast Asia.
 The "DACH" region refers to Germany, Austria, and Switzerland. The acronym is derived from the country codes for these nations: D for Deutschland (Germany), A for Austria, and CH for Confoederatio Helvetica (Switzerland). It's a term often used in business, statistics, and cultural contexts to refer to this group of German-speaking countries.
 
 Our summer took us across Austria and Germany…with a bonus two-days in Switzerland. The photo album of our summer adventures can be found here:
-Innsbruck 2025
-Southern Germany Bike Trip
 
-Innsbruck:
-Summer 2024 we spent a month in a charming apartment just outside of Innsbruck, Austria. We enjoyed ourselves so much, we planned a repeat visit for July 2025. As we do not have a proper home, it is a humorous feeling to return to a previous temporary “home” and have all the feels of a “home-coming”. We were once again charmed by the little town, relaxing vibe, and easy mountain hiking access. Though the weather was a bit more rainy, cloudy, and all around less ideal this stay; our apartment provided a very cozy space to watch fog roll across the Innsbruck valley. We did manage many hikes, including one stunning 3-night hut trip along the Swiss-Austrian border. In addition to singing about the hills being alive with the sound of music, I was brought to tears by the spectacular beauty during this hiking trip. The mountains were dramatic and gorgeous.
+-  [Innsbruck 2025](https://photos.app.goo.gl/tYe8TZFWgjwYMLko8)
+-  [Southern Germany Bike Trip](https://photos.app.goo.gl/ucLi9X4CfZKH66s99)
+
+### Innsbruck:
+
+Summer 2024 we spent a month in a [charming apartment just outside of Innsbruck, Austria](https://www.airbnb.com/rooms/24987313?guests=1&adults=1&s=67&unique_share_id=e6fe2bb9-4283-4eea-831a-7d35b29062c0). We enjoyed ourselves so much, we planned a repeat visit for July 2025. As we do not have a proper home, it is a humorous feeling to return to a previous temporary “home” and have all the feels of a “home-coming”. We were once again charmed by the little town, relaxing vibe, and easy mountain hiking access. Though the weather was a bit more rainy, cloudy, and all around less ideal this stay; our apartment provided a very cozy space to watch fog roll across the Innsbruck valley. We did manage many hikes, including one stunning 3-night hut trip along the Swiss-Austrian border. In addition to singing about the hills being alive with the sound of music, I was brought to tears by the spectacular beauty during this hiking trip. The mountains were dramatic and gorgeous.
 
 ![Tyler hiking up a rocky path](/images/2025-dach-1.jpg)
 
@@ -36,7 +35,8 @@ We were also delighted to host my parents for a week and enjoyed showing them so
 
 ![Tammy, Joe, Randi, and Tyler](/images/2025-dach-3.jpg)
 
-Ulm to Nürnberg by Bike:
+### Ulm to Nürnberg by Bike:
+
 After Innsbruck, we took our bikes and slowly started making our way back up to Berlin. This began with a train journey from Innsbruck, Austria to Ulm, Germany. Followed by a 5-day bike trip across 200 miles to Nürnberg, Germany.
 
 ![Map of the bike route](/images/2025-dach-4.jpg)
@@ -49,7 +49,8 @@ Our first two days were a bit rainy and very muddy…but luckily the sun came ou
 
 We enjoyed the city of Nürnberg for only one night before making our way by train back up to Berlin. When we arrived, we were greeted with a visit by my brother and his family!! We were so excited to show off the city we’ve called home for the last two years.
 
-Bittersweet Departure from Berlin:
+### Bittersweet Departure from Berlin:
+
 After A LOT of heavy consideration, Tyler has decided to quit his job. His company, Memfault, was acquired in June by a large worldwide company based out of Norway. While the acquisition was not the cause of Tyler’s decision to part ways, it did create an ideal time in which to bid farewell. With this very bittersweet turn of events we must prepare to leave Germany, as our residence visas are tied to Tyler’s employment. While we are excited about (slowly) making our way back to the US, we know we will greatly miss Berlin. This has been a magical two-year chapter in our history. We have found new hobbies, learned a new language, biked fantastic trails, and met amazing friends from all over the world (mostly from Turkey…because that’s Berlin). Berlin is a spectacular amalgamation of international professionals working to create a life in a vibrant city of opportunity. We have found the quirks and grunge of this city endearing, the people friendly, the bread delicious, and the urban pedestrian transit unparalleled to any other city we have lived in. We will be leaving a small piece of our heart behind when we go.
 
 ![Berlin has so much cool graffiti, Tyler loves to stand in front of it.](/images/2025-dach-7.jpg)
