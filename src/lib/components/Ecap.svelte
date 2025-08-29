@@ -39,11 +39,14 @@
 	.ecap-container {
 		margin: var(--large-margin) 0;
 		background-color: var(--white);
-		padding: 5% 20%;
+		padding: 1% 20%;
 		box-shadow: var(--shadowColor);
 	}
 	.ecap-container h2 {
 		margin: 0 var(--large-margin) 0;
+	}
+	#mc_embed_signup{
+		width: auto;
 	}
 	#mc_embed_signup form {
 		padding: 0;
