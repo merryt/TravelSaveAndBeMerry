@@ -9,8 +9,6 @@ tags: Europe, Bike
 ---
 
 
-Cover photo: https://photos.app.goo.gl/8fRRkcPoaLGrcvfu5 
-
 As we pack our bags and prepare to leave, our hearts are overflowing with gratitude for the city that has been our home these past two years. Berlin welcomed us with infinite bike lanes, consistent (though rarely punctual) public transit, an international spirit that made us feel like we belonged, and an endless supply of second-hand goods offered up on the streets. Here, it seems no one is really “from Berlin,” and that made it easy to meet amazing people who are building a life between languages, cultures, and never-ceasing-to-amaze life stories.
 We’ve fallen head over heels for Berlin’s bike culture—morning rides via the bulky bike-shares to the office or gym, weekend spins along the Mauerweg, or adventures with friends to visit the “Cake Lady,” a blind woman who bakes a multitude of incredible cakes in her humble, quaint café. In our final weeks we were delighted to welcome visitors from the U.S.—Randi’s cousin and Tyler’s mom and sister. We loved sharing our passion for biking through the city and were so impressed by their willingness to ride an hour out to Grunewald Forest and then an hour back to town. They were all such troopers!
 
@@ -21,7 +19,6 @@ Berlin also gave us friendships we’ll carry forever. Tyler found inspiring col
 
 ![East Side Gallery ](/images/2025-berlin-love-letter-2.jpg)
 
-Photo: https://photos.app.goo.gl/CMBN1U7L5c7Pr8p68 
 
 Of course, no Berlin love letter would be complete without appreciation for the little things that make this city so wonderfully Berlin: the charming East-Berlin Ampelmann, the Spätis that provide snacks and drinks at any hour, the realization that you really only need one German phrase in Berlin—“mit Karte bitte”—and the absurdity of apartment buildings with no unit numbers (ensuring you never quite know which neighbor has your package). These quirks have become inside jokes we’ll keep forever.
 
@@ -31,5 +28,6 @@ Of course, no Berlin love letter would be complete without appreciation for the 
 Berlin, you have spoiled us with your openness, your grit, your art, your humor, and your heart. You have challenged us with your dark, gray, chilled winters and laughably slow bureaucracy. We leave with full hearts and friendships that cross borders. This isn’t goodbye—it’s bis bald. Because once you’ve lived a Berlin summer, you know you’ll always come back.
 
 _With love and gratitude,_
+
 _Randi and Tyler_
 
