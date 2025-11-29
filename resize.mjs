@@ -1,4 +1,5 @@
-#!/usr/bin/env zx
+#!/usr/bin/env node
+import 'zx/globals'
 
 // this file is written with https://github.com/google/zx
 void (async function () {
