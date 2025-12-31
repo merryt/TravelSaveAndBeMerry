@@ -118,6 +118,11 @@ html.wf-loading * {
     }
 }
 
+.card-img-link {
+    width: 100%;
+    display: block;
+}
+
 .card-img {
     width: 100%;
     max-height: 120px;
