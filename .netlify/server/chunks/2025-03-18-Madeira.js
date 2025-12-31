@@ -1,0 +1,43 @@
+import { c as create_ssr_component } from "./index.js";
+const metadata = {
+  "date": "2025-03-07T11:00:00.740Z",
+  "updatedDate": "2025-03-07T11:00:00.740Z",
+  "description": "Randi and Tyler spent the last two weeks on Madeira Island; Tyler worked and we mostly hiked about. Next up, heading back to Berlin.",
+  "title": "Madeira Island Adventuring",
+  "coverPhoto": "/images/Madeira-Cover.jpg",
+  "authors": "Randi",
+  "tags": "Europe"
+};
+const _2025_03_18_Madeira = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  return `<p>TL;DR - Randi and Tyler spent the last two weeks on Madeira Island; Tyler worked and we mostly hiked about. Next up: heading back to Berlin.</p>
+<p><a href="https://photos.app.goo.gl/VG2s4qaRwaAP9FgZ7" rel="nofollow">Here is the photo recap</a></p>
+<p>We arrived in Madeira (a Portuguese island about 300 miles west of Morocco, in the Atlantic) and were immediately taken back by the stunning bright sunshine, coastline, and tropical flora/fauna. Madeira is known for its Madeira wine (similar to Port wine), pre-historic laurel forest (classified as a UNESCO World Heritage Site), and diverse topography (offering panoramic vistas of mountain terrain and the Atlantic Ocean…naturally attracting hikers). We also learned it is a year-round resort island commonly visited by the British and Germans (we heard so much German on the trails!)</p>
+<p><img src="/images/Madeira-1.jpg" alt="Walking next to a channel carrying water"></p>
+<p>Our apartment was conveniently located within a 10-minute (albeit very steep) walk to the coastline promenade that followed the ocean shore for miles. This became our daily walk when we were not on the hiking trails. Because of the steep mountain landscape, there are a LOT of tunnels for the roads, but even this little pedestrian boardwalk included a tunnel (as well as many of our hikes!).</p>
+<p><img src="/images/Madeira-2.jpg" alt="Views of the water"></p>
+<p>The main draw to Madeira was, of course, the hiking. While Tyler was working much of our visit, we were still able to get around the island via bus or rental car to enjoy some of the dramatic landscapes. While the trails (several detailed further on) were unique and interesting, we were often met with rain, clouds, and/or thick fog that hindered some of the stereotypical dramatic views of the region. Our two big mountain views demonstrated nothing but gray clouds. Admittedly, I was a little bummed about our bad luck with the weather; but tried to remember to make the best of it.</p>
+<p><img src="/images/Madeira-3.jpg" alt="Not all hikes are great, Randi at the top of a peak looking at clouds"></p>
+<p>Some of our hiking highlights included several levada hikes. The “levadas” are channels of water with a gentle slope originally created in the 15th century to transport the water for irrigation of the sugarcane plantations and vineyards. Many of the levada paths included carved tunnels cut into mountains to allow the easy passage of the channel.</p>
+<p><img src="/images/Madeira-4.jpg" alt="Tyler in a tunnel"></p>
+<p>We also enjoyed a few of the dramatic sea-side cliff hikes, which illustrate the landscape Madeira is famous for.</p>
+<p><img src="/images/Madeira-5.jpg" alt="Cliffs we hiked on"></p>
+<p>For posterity’s sake, these are the hikes we completed and any summary thoughts:</p>
+<ul><li>Levada da Ribeira da Janela - probably our favorite hike, it included about 6 tunnels that followed the Levada, including a 1.2km long tunnel!</li>
+<li>Levada do Castelejo - another lovely, less populated trail that led into a mountain spring with a hanging bridge.</li>
+<li>Levado do Canico - not our favorite; the levada was fine enough but required a very steep descent from Camacha town, which was less enjoyable.</li>
+<li>Fanal Forest walking hike - this centuries-old forest is very hyped up; for us, it was interesting, but perhaps not worth the hype.</li>
+<li>Boca do Risco Cliffside hike - I had very high expectations for the cliffside views of this grueling up-and-down trek; sadly, the fog and clouds had other ideas.</li>
+<li>PR8 - Ponta de São Lourenço Cliffside hike - another very hyped-up and popular hike…admittedly, it is pretty stunning.</li></ul>
+<p>During our Fanal Forest hike, we did manage to hike up above the clouds…</p>
+<p><img src="/images/Madeira-6.jpg" alt="Randi above the clouds"></p>
+<p>A few other interesting notes about Madeira:</p>
+<p>The Madeiran airport, the Cristiano Ronaldo International Airport (named of course for the famed soccer player), is a unique engineering endeavor. It is built on stilts to accommodate the need for flat land (a landscape of which Madeira is in short supply). Here is an interesting video explaining the airport (and a pic from us driving under said airport): <a href="https://www.youtube.com/watch?v=6kolTgj7uQc" rel="nofollow">https://www.youtube.com/watch?v=6kolTgj7uQc</a></p>
+<p><img src="/images/Madeira-7.jpg" alt="Under the airport"></p>
+<p>We also were lucky enough to be here for the Carnival celebration and caught a few highlights of the main parade; which is so popular it is televised!</p>
+<p><img src="/images/Madeira-8.jpg" alt="Carnaval is filled with people dancing and riding on floats"></p>
+<p>Next up, we head back to Deutschland to enjoy springtime in Berlin…and we’re hoping to get some bikes!!</p>`;
+});
+export {
+  _2025_03_18_Madeira as default,
+  metadata
+};
