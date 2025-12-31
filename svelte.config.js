@@ -7,10 +7,11 @@ const config = {
 	// Consult https://kit.svelte.dev/docs/integrations#preprocessors
 	// for more information about preprocessors
 	preprocess: [
-		vitePreprocess(),
 		mdsvex({
 			extensions: ['.md']
-		})],
+		}),
+		vitePreprocess()
+	],
 
 	extensions: ['.svelte', '.md'],
 	kit: {

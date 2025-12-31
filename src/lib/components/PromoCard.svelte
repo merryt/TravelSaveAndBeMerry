@@ -1,6 +1,6 @@
 <script lang="ts">
-	import { getAllPosts } from '$lib/components/getAllPosts.ts';
-	import type { FrontMatter } from '$lib/interfaces.ts';
+	import { getAllPosts } from '$lib/components/getAllPosts';
+	import type { FrontMatter } from '$lib/interfaces';
 	export let tag: string;
 
 	const sortedPosts: Promise<{ meta: FrontMatter; path: string }[]> = getAllPosts();

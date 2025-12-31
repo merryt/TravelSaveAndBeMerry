@@ -1,5 +1,5 @@
-import { getAllPosts } from "$lib/components/getAllPosts.ts";
-import type { FrontMatter } from "$lib/interfaces.ts";
+import { getAllPosts } from "$lib/components/getAllPosts";
+import type { FrontMatter } from "$lib/interfaces";
 
 export async function load() {
     const posts = await getAllPosts();

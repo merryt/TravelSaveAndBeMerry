@@ -7,6 +7,11 @@ coverPhoto: /images/portugal1.jpg
 authors: Randi
 tags: Europe
 ---
+
+<script lang="ts">
+  import ImageWithCaption from '$lib/components/ImageWithCaption.svelte';
+</script>
+
 # Stunning coastal hikes, amazing port, and the surprising delights of sardines!
 
 Hi friends and familyhope all is well in 2023. We have really enjoyed the messages, emails, and calls from several of youthanks for keeping in touch!
@@ -27,17 +32,17 @@ We found Lisbon to be a bustling city with endless hills, but also endless pastr
 
 UPDATE: We quickly consumed too many sardines and we are sardine people no longer.
 
-![So many pretty tiles around Lisbon](/images/portugal2.jpg "So many pretty tiles around Lisbon")
+<ImageWithCaption url="/images/portugal2.jpg" alt="So many pretty tiles around Lisbon" />
 
 #### Portimao
 
 Our first introduction to the Algarve (the region of south-western Portugal) was the town of Portimao, where we spent two nights. Our main purpose here was to complete two back-to-back coastal treks for a total of 13-miles (Seven Hanging Valleys Trail and the Trail of Headlands). The hike proved to be everybit worth the effort. As we hiked over a trail of heavily eroded limestone, each new bend brought us to another astounding cliffside vista or pristine secluded beach. Many of the beaches could only be accessed by boat or by hiking through caves or climbing down sinkholes. The weather was cloudy nearly all day and it sprinkled on us a few times; but this will absolutely remain one of my favorite hikes of all time.
 
-![Cool cliffs all around!](/images/portugal3.jpg "Cool cliffs all around!")
+<ImageWithCaption url="/images/portugal3.jpg" alt="Cool cliffs all around!" />
 
-![Sink holes leading to hidden beaches](/images/portugal4.jpg "Sink holes leading to hidden beaches")
+<ImageWithCaption url="/images/portugal4.jpg" alt="Sink holes leading to hidden beaches" />
 
-![Hidden beaches!](/images/portugal5.jpg "Hidden beaches!")
+<ImageWithCaption url="/images/portugal5.jpg" alt="Hidden beaches!" />
 
 #### Lagos
 
@@ -47,9 +52,9 @@ All in all we enjoyed a week in Lagos. The hiking trails and secluded beaches we
 
 We were able to utilize the local bus to enjoy several coastal hikes and small sea-side towns along the southern Mediterranean and western Atlantic coasts of the Algarve. All-in-all, we found the Algarve to be accessible and astoundingly beautiful. Seems to be a very popular place for british and canadian snowbirds and expats (thus English is pretty much spoken everywhere).
 
-![Rocks eroding in some interesting ways!](/images/portugal6.jpg "Rocks eroding in some interesting ways!")
+<ImageWithCaption url="/images/portugal6.jpg" alt="Rocks eroding in some interesting ways!" />
 
-![How do they make these holes? ](/images/portugal7.jpg "How do they make these holes? ")
+<ImageWithCaption url="/images/portugal7.jpg" alt="How do they make these holes? " />
 
 In summary, we enjoyed Portugal, particularly the southern Algarve region. We found the restaurant and grocery prices to be a bit similar to the US. Accommodations were similar to Malta (~$40/night) in price, but a bit lower in quality. Wine and seafood were abundant and delicious. The hiking exceeded expectations, however, outside of Lisbon the public transit was slightly less convenient/affordable. Hopefully someday we can return and visit more northern and eastern Portugal.
 

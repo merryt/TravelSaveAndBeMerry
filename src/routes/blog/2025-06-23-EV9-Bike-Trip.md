@@ -8,6 +8,11 @@ authors: Randi
 tags: Europe, Bike
 ---
 
+<script lang="ts">
+  import ImageWithCaption from '$lib/components/ImageWithCaption.svelte';
+</script>
+
+
 TL;DR - **We managed to once again attain bicycles! What better way to celebrate than with a two-week bike trip as a means to get to Vienna for some family time. Three countries, three flat tires, one bike crash, and 530 miles later…we arrived in Vienna.**
 
 The [photo album of our (mis-)adventures](https://photos.app.goo.gl/e2ykmaqTKyPqthxA9).
@@ -18,21 +23,21 @@ With bikes in possession we quickly started planning day rides and easy overnigh
 
 In June, we needed a way to get to Vienna and we figured, why not by bike?!? We found the Eurovelo 9 which ran directly into Vienna (Eurovelos are EU designated long distance cycle routes across Europe). Tyler was able to take a two week holiday from work, so we decided to start our trip in Poznan, Poland (which is an easy 3-hour bus or train ride from Berlin) and allowed us the time to bike the 530 miles (with one full rest day). We were delighted to have two friends from Berlin join us for the first few days of our ride while in Poland. As the Merry family says: the more the MERRY-er!!!
 
-![Route we took on the bike route](/images/2025-6-EV9-Route.png)
+<ImageWithCaption url="/images/2025-6-EV9-Route.png" alt="Route we took on the bike route" />
 
 Some highlights of our adventures included:
 
 **Poland**: We spent the first six days biking in Poland. We found it to be a very smiling culture with very friendly people happy to help and patient with language barriers. The food, a lot of perogies, potatoes, and schnitzel seems to agree with Tyler. Though sadly the weather was not ideal for us with a bit of rain and wind. Also, the bike route was mostly a mix of dirt roads (which turned very muddy with the rain) or on streets with other cars (not ideal). Based on this one experience, I am not sure I would recommend Poland for a bike trip.
 
-![Biking through a mud pit after rainy day](/images/2025-06-biking-through-mud.jpg)
+<ImageWithCaption url="/images/2025-06-biking-through-mud.jpg" alt="Biking through a mud pit after rainy day" />
 
-![One of our 3 flats of the trip](/images/2025-06-EV9-Fixing-Flat.jpg)
+<ImageWithCaption url="/images/2025-06-EV9-Fixing-Flat.jpg" alt="One of our 3 flats of the trip" />
 
 **Czech Republic**: The next section of our trip took us across the Jeseníky Mountains and into the Olomouc region of the Czech Republic. Unfortunately, my gps route failed us and I misled us up a ski mountain. We had to manage a bit of hike-a-bike to get ourselves out of the pickle. This is also where our flat tire bad luck began. Though, interestingly, we found bicycling the most joyous in the Czech Republic. The routes were a lot of fun with paved trails, dedicated to bicycling, leading through the woods, along lakes and creeks, and through the countryside as well. We even had a welcome crew join us for our one and only rest day! My brother and his family came up from Vienna to visit and keep us company for a day in the charming town of Horka nad Moravia. Back on the trail, it was in the wine region of southern Moravia (south of Brno) where we had an amazing wine tasting at [Vinný sklep Vinařství Zámečník](https://www.vinozamecnik.cz/). We enjoyed sampling their sparkling wine, local riesling, and a white blend of grapes from 16 local winemakers. The family charmed us with stories of their winery and cellar.
 
-![The full bike trip wasn't biking. Sometimes we carried our bikes as we hiked](/images/2025-06-EV6-Hike-a-Bike.jpg)
+<ImageWithCaption url="/images/2025-06-EV6-Hike-a-Bike.jpg" alt="The full bike trip wasn't biking. Sometimes we carried our bikes as we hiked" />
 
-![Tree lined path we biked through](/images/2025-06-EV6-Pretty-Path.jpg)
+<ImageWithCaption url="/images/2025-06-EV6-Pretty-Path.jpg" alt="Tree lined path we biked through" />
 
 **Austria**: Truth be told, we were only biking 1.5 days in Austria before reaching Vienna. In alignment with our past Austrian biking experiences, the infrastructure and biking culture is well-suited for biking holidays. The bike trails and cycle-biways are delightful.
 

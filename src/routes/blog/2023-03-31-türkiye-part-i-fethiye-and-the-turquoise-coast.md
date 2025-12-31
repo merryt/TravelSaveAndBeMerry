@@ -7,6 +7,11 @@ coverPhoto: /images/fethiye-cover.jpg
 authors: Randi
 tags: Europe
 ---
+
+<script lang="ts">
+  import ImageWithCaption from '$lib/components/ImageWithCaption.svelte';
+</script>
+
 # Because we havent had our fill of Mediterranean hiking yet
 
 **Where are Randi and Tyler?**
@@ -23,11 +28,11 @@ Weve done a bit of hiking, exploring local ruins/tombs, eating a LOT of bread, a
 
 In this authors opinion, Tylers favorite activity was watching a tractor trailer, followed by a street grader, move a ship from a shipyard to a dock, and then into the water. As we walked our regular broadwalk route, we happened to catch this exciting show. [You can read the full report of the excitement here](https://travelsaveandbemerry.com/blog/2023-03-30-how-to-launch-a-boat-in-fethiye) (along with pics detailing the progress). Thankfully Captain America was there to lend a hand (aka, a small child of about 5 who was walking by with his father and dad asked the tractor-driver, can my kid ride on the tractor?...or at least that's what we think we saw happen, but we dont speak Turkish, so who knows).
 
-![Getting a boat into the water](/images/fethiye-boat-launch-2.png "Getting a boat into the water")
+<ImageWithCaption url="/images/fethiye-boat-launch-2.png" alt="Getting a boat into the water" />
 
 My favorite activity is a tie between grocery shopping and coastal, pine-forest hiking. Every Sunday our neighborhood pops up an open-air, fresh-produce market. The produce, cheese, olives, and sausages have been especially delicious. I have never enjoyed eating so many salads, but the produce here tastes impressively better than average; like everything is fresh from a garden. It also doesnt hurt that we can buy a weeks worth of fresh produce, cheese, and sausage for under $30. This is a picture of one week of market goods which totaled $22.75 USD. (The cover photo is of an olive vendor at the market).
 
-![Yummy food from the neighborhood market](/images/turkiye-food.jpg "Yummy food from the neighborhood market")
+<ImageWithCaption url="/images/turkiye-food.jpg" alt="Yummy food from the neighborhood market" />
 
 **What is something we dont like?**
 
@@ -45,16 +50,16 @@ Also, baklavathat crispy, flakey, dripping with honey desertit is everywhere and
 
 Hiking down a cliffside trail to the clear, blue waters of Butterfly Valley: This beach is only accessible by boat or hike/climb down into the valley. It was a fun and adventurous trail that proved to be well worth the effort. We also met a lovely Polish traveler who accompanied us and had our first hitch-hiking experience, in which we barreled down the twisty-curvy mountain road in the back of a workers pick-up truckit was a hoot.
 
-![Tyler going down into butterfly valley](/images/turkiye-butterfly-valley-1.jpg "Tyler going down into butterfly valley")
+<ImageWithCaption url="/images/turkiye-butterfly-valley-1.jpg" alt="Tyler going down into butterfly valley" />
 
 Ancient City of Patara: We took a 1.5 hour bus, followed by a 3 mile walk to the ancient city of Patara, a major maritime city from about 400 BC in the Lycian empire through the Roman and Byzantine empires up to about 1300 AD. It is also the birthplace of Santa Claus; Saint Nicholas was born in Patara in 270 AD. We enjoyed roaming the ruins of the old city center, learning about the history and ancient civilizations. Patara also claims the longest sand beach in Turkey. Which is where we finally dipped into the Mediterranean Sea after two months of hiking its coastlines.
 
-![Amphitheater in the ancient city of Patara](/images/turkiye-patara.jpg "Amphitheater in the ancient city of Patara")
+<ImageWithCaption url="/images/turkiye-patara.jpg" alt="Amphitheater in the ancient city of Patara" />
 
 Fethiye Fish Market dining experience: First, we picked a restaurant to dine at from the selection of restaurants that surround the Fish Market. After getting some appetizers and drinks, we then perused the Fish Market, selected our fish (a sea base for about $4 a kilo of calamari for about $5), then pointed out our restaurant to the fishmonger. He cleaned our fish, delivered it to the restaurant, and they prepared our grilled sea bass and fried calamari for $3.
 
-![Yummy fish ready to be cooked up](/images/turkiye-fish-market.jpg "Yummy fish ready to be cooked up")
+<ImageWithCaption url="/images/turkiye-fish-market.jpg" alt="Yummy fish ready to be cooked up" />
 
 Hiking through the abandoned city of Kayaky: The village was Greek Orthodox Christians for over 1,000 years until the Greco-Turkish War of 19191922, and the subsequent Treaty of Lausanne in 1923, in which the town's Greek Orthodox residents were exiled and forced to leave Turkey for Greece. The village is now an open air museum where people can hike through.
 
-![Abandon stone houses from 100 years ago](/images/turkiye-kayakoy.jpg "Abandon stone houses from 100 years ago")
+<ImageWithCaption url="/images/turkiye-kayakoy.jpg" alt="Abandon stone houses from 100 years ago" />

@@ -1,4 +1,4 @@
-import { getAllPosts } from "$lib/components/getAllPosts.ts";
+import { getAllPosts } from "$lib/components/getAllPosts";
 
 export async function load({ params }) {
     const posts = await getAllPosts()

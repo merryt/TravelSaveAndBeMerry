@@ -7,6 +7,11 @@ coverPhoto: /images/img_20211103_170741760_hdr.jpg
 authors: Tyler
 tags: Mexico
 ---
+
+<script lang="ts">
+  import ImageWithCaption from '$lib/components/ImageWithCaption.svelte';
+</script>
+
 Hi Family! Thanks for following along on our journey.
 
 [Photos](https://photos.google.com/share/AF1QipP0Aep16g1E_GksVs1Vh2EEzYIAEfbQb1Dce6ie4l50jN0rv32BSfxWvC36utJHAA?key=eFdLTjZ5ckxhSUVSeVlMMG9oOFRiOGlWeXc5U3JR) (no pressure to read if you are just here for the photos)
@@ -16,7 +21,7 @@ Hi Family! Thanks for following along on our journey.
 
 The City of Valladolid (or at least the neighborhood we were in was really inviting) there were several older people who would wave to us every day. On one day our walk to downtown timed up with theirs and they told us all about their favorite food Cochinita Pebil and how it was made for our whole walk to downtown. Luckily we new the rough idea of how it was made so it was a great opportunity to practice Spanish with someone who didn't speak English on a topic we already knew about. I don't get to many of those so I take them when I can get them! I am still HORRIBLE at speaking Spanish, but my comprehension is getting better. Or maybe I am just getting better at tourist charades and context clues. Randi's Spanish classes and more consistent practice seem to be helping her, but we are still a bit of a mess.
 
-![Tyler standing by a coffee shop in town.](/images/img_20211106_145331.jpg "Valladolid had several bright colored buildings and all kinds of yummy treats.")
+<ImageWithCaption url="/images/img_20211106_145331.jpg" alt="Tyler standing by a coffee shop in town." />
 
 While in Valladolid we did a [bee farm](https://www.tripadvisor.com/Attraction_Review-g499453-d10253919-Reviews-Xkopek_Parque_Apicola-Valladolid_Yucatan_Peninsula.html) tour. It was really cool to see all the different types of bees that exist in central America that I don't remember from Ohio, North Carolina or Colorado. There are kleptomania bees that steal other bees honey. Hermit bees that live by themselves. As well as a few kinds of bees that live underground, or in logs on the ground. Really makes me want to tour a bee farm when I go to the states!
 
@@ -26,7 +31,7 @@ A [cenote](https://en.wikipedia.org/wiki/Cenote) is an underground level pool of
 
 The BIG touristy thing we did in Valladolid was check out [Chichen Itza](https://en.wikipedia.org/wiki/Chichen_Itza). Chichen Itza is a Maya city located near Valladolid. The city was founded \~400 AD and had a population was \~50k people, most of the structures were made of wood, which have since disappeared to the elements, but the stone structures are still in place, and they are IMPRESSIVE. Most of the stone structures were build for religious, sport, science, or economic uses. My personal favorite was the observatory which was built for stargazing. The tree cover there is pretty dense so the observatory was built to be above the trees and had a few stones that only allowed light to pass through them on 2 days a year so people could make sure their calendars were set correctly. The Maya people were very good at building to match celestial events. [Kukulcn temple]([https://en.wikipedia.org/wiki/El_Castillo,_Chichen_Itza](https://en.wikipedia.org/wiki/El_Castillo,_Chichen_Itza)), the main building in Chichen Itza, has 3 sides with 91 steps representing 4 quarters of the year with one platform on top totaling 365 steps, or 365 days. Twice a year the shadows of the building make a snake. The shadows also could have been used to signal other things like start of planting or harvesting season.
 
-![Randi and Tyler by Kukulcn temple](/images/img_20211104_082643.jpg "Randi and Tyler by Kukulcn temple")
+<ImageWithCaption url="/images/img_20211104_082643.jpg" alt="Randi and Tyler by Kukulcn temple" />
 
 Chichen Itza was a bit of a zoo with tourists and vendors everywhere selling all kinds of things like jaguar growler whistles and small versions of all the landmarks. Seemed like it was a pretty symbiotic relationship though, but the sound of jaguars growling all the time seemed to frustrate Randis dad by the end of the day.
 

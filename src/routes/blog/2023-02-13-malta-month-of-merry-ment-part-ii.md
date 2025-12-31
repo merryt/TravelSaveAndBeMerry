@@ -7,6 +7,11 @@ coverPhoto: /images/malta2.jpg
 authors: Randi
 tags: Europe
 ---
+
+<script lang="ts">
+  import ImageWithCaption from '$lib/components/ImageWithCaption.svelte';
+</script>
+
 ### Comino, Gozo, and Malta Hiking Adventures
 
 Hi friends and familywe hope you are well. As our month in Malta comes to a close, we reflect on the things we learned and enjoyed about this historic island in the Mediterranean.
@@ -22,7 +27,7 @@ A few things we learned:
 * European islands appropriately work to conserve water and do not have large hot-water tanks; thus, showers get cold fast in Malta (like 3 minutes tops).
 * Malta is an affordable and astounding country; rich in history, hiking, sea-side views, and local charm.
 
-![The gantija Temples on Gozo, ~5600 years old](/images/malta3.jpg "The gantija Temples on Gozo, ~5600 years old")
+<ImageWithCaption url="/images/malta3.jpg" alt="The gantija Temples on Gozo, ~5600 years old" />
 
 A few things we enjoyed:
 
@@ -30,7 +35,7 @@ A few things we enjoyed:
 * PASTIZZIS!!! These are filo-dough pastries, typically filled with ricotta cheese. At $0.50 a pop they are a wonderful snack and sold all over Malta.
 * Tyler rekindled his love of Shandys and Randi found cappuccinos with Amaretto to be the perfect mid-day pick-me-up.
 
-![Pastizzis in Malta](/images/malta4.jpg "Pastizzis in Malta")
+<ImageWithCaption url="/images/malta4.jpg" alt="Pastizzis in Malta" />
 
 Other updates:
 
@@ -40,6 +45,6 @@ Other updates:
 * Randi has been spending hours studying locations and planning how we might spend our time during our travels in 2023.
 * We both highly recommend the new HBO show: The Last of Us
 
-![Tal-Mixta Cave above Ramla Beach on Gozo](/images/malta5.jpg "Tal-Mixta Cave above Ramla Beach on Gozo")
+<ImageWithCaption url="/images/malta5.jpg" alt="Tal-Mixta Cave above Ramla Beach on Gozo" />
 
 All in all, Malta was a delightful surprise that exceeded all expectations. We strongly recommend this Mediterranean country for anyones holiday destination!! As always, dont be shy to text, call, or email us with your updates!
