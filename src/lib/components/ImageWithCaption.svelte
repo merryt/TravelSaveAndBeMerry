@@ -27,7 +27,7 @@
 	.image-with-caption {
 		padding: 10px;
 		border-radius: 10px;
-		border: 1px solid var(--green-2);
+		border: 1px solid var(--green-1);
 		width: 50%;
 		display: flex;
 		flex-direction: column;
