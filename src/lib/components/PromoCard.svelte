@@ -14,7 +14,7 @@
 
 <div class="promo-card card">
 	<h4>Travel, Save, and be Merry</h4>
-	<h2 class="display">{tag}</h2>
+	<h2 class="display"><a class="tags-link" href="/blog/tags/{tag}">{tag}</a></h2>
 	<svg
 		width="183"
 		height="149"
@@ -48,6 +48,10 @@
 		position: relative;
 		background-color: var(--green-3);
 		align-items: center;
+	}
+	.tags-link {
+		text-decoration: none;
+		color: white;
 	}
 
 	.promo-card > * {

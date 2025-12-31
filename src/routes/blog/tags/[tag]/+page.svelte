@@ -4,7 +4,6 @@
 </script>
 
 <div class="container">
-	<a href="/blog/tags">See all Tags</a>
 	<h1>{data.params.tag}</h1>
 	<p>There are {data.posts.length} posts tagged with {data.params.tag}</p>
 </div>

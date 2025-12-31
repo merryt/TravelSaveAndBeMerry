@@ -3,6 +3,7 @@
 	import Card from '$lib/components/Card.svelte';
 	import PromoCard from '$lib/components/PromoCard.svelte';
 	import moment from 'moment';
+	import ImageWithCaption from '$lib/components/ImageWithCaption.svelte';
 </script>
 
 <article>
