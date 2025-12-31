@@ -23,6 +23,7 @@
 		align-items: center;
 		justify-content: center;
 		border-radius: 10px;
+		margin-bottom: 40px;
 	}
 	.image-with-caption {
 		padding: 10px;
@@ -36,6 +37,7 @@
 	.image-with-caption img {
 		max-width: 100%;
 		height: auto;
+		border-radius: 4px 4px 0 0;
 	}
 	.image-with-caption p {
 		margin-top: var(--small-margin);

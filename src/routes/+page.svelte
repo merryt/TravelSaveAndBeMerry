@@ -14,7 +14,9 @@
 		</div>
 
 		<div class="about-us">
-			<h2 class="display">About Us</h2>
+			<h2 class="display">
+				<a href="/blog/2020-11-09-about-us" class="about-us-link">About Us</a>
+			</h2>
 			<p>
 				Randi and Tyler walk through their experiences traveling, saving, and finding happiness,
 				well, sorta, we just liked the domain name! We are currently slow traveling around
@@ -32,6 +34,10 @@
 </div>
 
 <style>
+	.about-us-link {
+		text-decoration: none;
+		color: var(--green-3);
+	}
 	.title {
 		font-size: 18vw;
 		letter-spacing: -10px;
