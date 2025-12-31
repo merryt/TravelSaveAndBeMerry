@@ -81,6 +81,10 @@ html.wf-loading * {
     background-color: var(--blue-2);
 }
 
+.container {
+    margin: 0 var(--large-margin);
+}
+
 .cards {
     margin: 0 var(--large-margin);
     display: flex;
