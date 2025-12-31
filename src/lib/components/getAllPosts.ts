@@ -5,7 +5,7 @@ export async function getAllPosts() {
     const iterablePostFiles = Object.entries(allPostFiles)
     const allPosts = await Promise.all(
         iterablePostFiles.map(async ([path, resolver]) => {
-            const resolved: unknown = await resolver()
+            const resolved: any = await resolver()
             const frontMatter: FrontMatter = resolved.metadata
             const postPath = path.slice(12, -3)
             frontMatter.authors = frontMatter.authors.toString().split(',')
